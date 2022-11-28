@@ -1,0 +1,9 @@
+version: '2'
+
+services:
+    streamlit:
+        build:
+            dockerfile: Dockerfile.txt
+            context: ./
+        ports:
+          - "8081:8501"
