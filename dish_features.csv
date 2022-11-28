@@ -1,0 +1,159 @@
+Dish_ID,Dish,Type,Category,Ingredient_1,Ingredient_2,Ingredient_3
+101,Idly,Breakfast,Vegetarian,black gram , rice, water
+102,Sambar Idly,Breakfast,Vegetarian,vegetables, dal, sambar powder 
+103,Vada,Breakfast,Vegetarian,dal, water,
+104,Dosa,Breakfast,Vegetarian,black gram, rice,
+105,Mysore Bonda,Breakfast,Vegetarian,rice, all purpose flour, baking soda
+106,Pesarattu-Upma,Breakfast,Vegetarian,moong beans, semolina,
+107,Only Upma,Breakfast,Vegetarian,semolina,,
+108,Only Pesarattu,Breakfast,Vegetarian,moong beans,,
+109,Oothappam,Breakfast,Vegetarian,black gram, rice,
+110,Pongal,Breakfast,Vegetarian,rice, moong beans,
+111,Appam,Breakfast,Vegetarian,rice, coconut milk, sugar
+112,Idiyappam,Breakfast,Vegetarian,rice, water, coconut
+113,Parotta,Breakfast,Vegetarian,flour, semolina, ghee
+114,Chole Bhature,Breakfast,Vegetarian,chickpeas, flour, yoghurt
+115,Paratha,Breakfast,Vegetarian,flour, semolina, ghee
+116,Methi Thepla,Breakfast,Vegetarian,flour, chickpea. Ghee,
+117,Poori Bhaji,Breakfast,Vegetarian,flour, potato, ghee
+118,Poha,Breakfast,Vegetarian,flattened rice,vegetables,
+119,Sandwich,Breakfast,Vegetarian,bread,vegetables,
+120,Bread Toast,Breakfast,Vegetarian,bread,butter,
+121,Bread Omlette,Breakfast,Non-Vegeterian,bread, egg,
+122,Vegetable Maggi,Breakfast,Vegetarian,noodles,vegetables,
+123,Non-Veg Maggi,Breakfast,Non-Vegeterian,noodles, egg,chicken
+124,Veg Cutlet,Lunch and Dinner,Vegetarian,vegetables, bread,
+125,Veg Dumplings,Lunch and Dinner,Vegetarian,flour, vegetables,
+126,Veg Pakora,Lunch and Dinner,Vegetarian,vegetables, flour ,
+127,Veg lollipop,Lunch and Dinner,Vegetarian,vegetables, corn flour, spices
+128,Hara Bara Kabab,Lunch and Dinner,Vegetarian,vegetables, flour, bread
+129,Seekh Kabab,Lunch and Dinner,Non-Vegeterian,mutton, yogurt, spices
+130,Bharwa Aloo,Lunch and Dinner,Vegetarian,potato, cheese, spices 
+131,Paneer Tikka,Lunch and Dinner,Vegetarian,paneer,yogurt,vegetables
+132,Paneer Achari,Lunch and Dinner,Vegetarian,paneer,yogurt,vegetables
+133,Paneer Multani Tikka,Lunch and Dinner,Vegetarian,paneer,cheese,mushroom
+134,Haryali Paneer Tikka,Lunch and Dinner,Vegetarian,paneer,yogurt, spices
+135,Paneer Amritsari Tikka,Lunch and Dinner,Vegetarian,paneer, lemon, spices
+136,Mushroom Tikka,Lunch and Dinner,Vegetarian,mushroom, yogurt, spices
+137,Mushroom Malai Tikka,Lunch and Dinner,Vegetarian,mushroom, cream, spices
+138,Veg Platter,Lunch and Dinner,Vegetarian,vegetables, yogurt, lemon
+139,Chilli Potatoes,Lunch and Dinner,Vegetarian,potato, sauce, cornflour
+140,Veg Spring Rolls,Lunch and Dinner,Vegetarian,vegetables, flour, flour
+141,Veg Manchurian,Lunch and Dinner,Vegetarian,vegetables, corn flour, sauce
+142,Crispy Corn,Lunch and Dinner,Vegetarian,corn, corn flour, spices
+143,Baby Corn,Lunch and Dinner,Vegetarian,corn, corn flour, sauce
+144,Gobi Manchurian,Lunch and Dinner,Vegetarian,corn flour, vegetables, sauce
+145,Chilli Mushroom,Lunch and Dinner,Vegetarian,mushroom, corn flour, sauce
+146,Chilli Paneer,Lunch and Dinner,Vegetarian,paneer, corn flour, sauce
+147,Paneer 65,Lunch and Dinner,Vegetarian,paneer, rice flour, spices
+148,Chicken Tandoori,Lunch and Dinner,Non-Vegeterian,chicken, spices, lemon
+149,Chicken Seekh Kabab,Lunch and Dinner,Non-Vegeterian,chicken, yogurt, spices
+150,Chicken Tikka Dry,Lunch and Dinner,Non-Vegeterian,chicken, yogurt, spices
+151,Chicken Achari,Lunch and Dinner,Non-Vegeterian,chicken, yogurt, spices
+152,Chicken Malai,Lunch and Dinner,Non-Vegeterian,chicken, yogurt, spices
+153,Chicken Pakora,Lunch and Dinner,Non-Vegeterian,chicken, rice flour, spices
+154,Chicken Roast,Lunch and Dinner,Non-Vegeterian,chicken, spices, lemon
+155,Pepper Garlic Chicken,Lunch and Dinner,Non-Vegeterian,chicken, spices, vegetables 
+156,Lemon Chicken,Lunch and Dinner,Non-Vegeterian,chicken, lemon, spices
+157,Cashew Chicken,Lunch and Dinner,Non-Vegeterian,chicken, cashew, sauce
+158,Chicken Fry,Lunch and Dinner,Non-Vegeterian,chicken, egg, flour
+159,Chicken RR,Lunch and Dinner,Non-Vegeterian,chicken, pasta, sauce
+160,Murgh Tangdi Kabab,Lunch and Dinner,Non-Vegeterian,chicken, yogurt, lemon
+161,Murgh Lasooni Kabab,Lunch and Dinner,Non-Vegeterian,chicken, cream, spices
+162,Mutton Fry,Lunch and Dinner,Non-Vegeterian,mutton, spices,
+163,Mutton RR,Lunch and Dinner,Non-Vegeterian,mutton, pasta, sauce
+164,Mutton Seekh Kabab,Lunch and Dinner,Non-Vegeterian,mutton, spices, egg
+165,Mutton Awadhi Kabab,Lunch and Dinner,Non-Vegeterian,mutton, papaya, spices
+166,Mutton Cutlet,Lunch and Dinner,Non-Vegeterian,mutton, spices, potato
+167,Mutton Pepper Fry,Lunch and Dinner,Non-Vegeterian,mutton, spices, lemon
+168,Fish tikka,Lunch and Dinner,Non-Vegeterian,fish, yogurt, spices
+169,Fish Fry,Lunch and Dinner,Non-Vegeterian,fish, spices, lemon
+170,Tandoori Fish,Lunch and Dinner,Non-Vegeterian,fish, yogurt, spices
+171,Prawns Fry,Lunch and Dinner,Non-Vegeterian,fish, prawns, yogurt
+172,Golden Prawns,Lunch and Dinner,Non-Vegeterian,prawns, corn flour, sauce
+173,Butter Garlic Prawns,Lunch and Dinner,Non-Vegeterian,prawns, corn flour, sauce
+174,Pepper Prawns,Lunch and Dinner,Non-Vegeterian,prawns, spices, pepper
+175,Ginger Prawns,Lunch and Dinner,Non-Vegeterian,prawns, spices, pepper
+176,Apollo Fish,Lunch and Dinner,Non-Vegeterian,fish, corn flour, sauce
+177,Chilli Fish,Lunch and Dinner,Non-Vegeterian,fish, corn flour, sauce
+178,Fish Manchurian,Lunch and Dinner,Non-Vegeterian,fish, corn flour, sauce
+179,Loose Prawns,Lunch and Dinner,Non-Vegeterian,prawns, corn flour, spices
+180,Prawns Manchurian,Lunch and Dinner,Non-Vegeterian,prawns, corn flour, sauce
+181,Chilli Prawns,Lunch and Dinner,Non-Vegeterian,prawns, corn flour, sauce
+182,Mutton 65,Lunch and Dinner,Non-Vegeterian,mutton, rice flour, spices
+183,Pepper Mutton,Lunch and Dinner,Non-Vegeterian,mutton, spices, lemon
+184,Chicken Manchurian,Lunch and Dinner,Non-Vegeterian,chicken, sauce, corn flour
+185,Chilli Chicken,Lunch and Dinner,Non-Vegeterian,chicken, sauce, corn flour
+186,Chicken 65,Lunch and Dinner,Non-Vegeterian,chicken, rice flour, spices
+187,Chicken Drum Sticks,Lunch and Dinner,Non-Vegeterian,chicken, butter, flour
+188,Chicken Majestic,Lunch and Dinner,Non-Vegeterian,chicken, butter, flour
+189,Mushroom Masala,Lunch and Dinner,Vegetarian,mushroom, spices,
+190,Paneer Butter Masala,Lunch and Dinner,Vegetarian,paneer, spices, cream
+191,Kadaai Paneer,Lunch and Dinner,Vegetarian,paneer, vegetables, spices
+192,Paneer Tikka Masala,Lunch and Dinner,Vegetarian,paneer, spices, lemon
+193,Veg Kofta,Lunch and Dinner,Vegetarian,vegetables, flour, spices
+194,Aloo Gobi Masala,Lunch and Dinner,Vegetarian,vegetables, spices, potato
+195,Plain Dosa,Lunch and Dinner,Vegetarian,black gram, rice,
+196,Dal Tadka,Lunch and Dinner,Vegetarian,pulses,,
+197,Arachu Vitta Sambar,Lunch and Dinner,Vegetarian,vegetables, dal, sambar powder 
+198,Avial with Kerala Red Rice,Lunch and Dinner,Vegetarian,rice, vegetables,
+199,Bendekaayi Gojju (Ladys Finger Gravy),Lunch and Dinner,Vegetarian,lady finger, coconut, pulses
+200,Mango Kuzhambu,Lunch and Dinner,Vegetarian,mango,,
+201,Mix Veg Curry,Lunch and Dinner,Vegetarian,vegetables, spices,
+202,Farm Fresh Pizza,Lunch and Dinner,Vegetarian,pizza, vegetables, cheese
+203,Corn Cheese Pizza,Lunch and Dinner,Vegetarian,corn, pizza, cheese
+204,Margarita Pizza,Lunch and Dinner,Vegetarian,pizza, cheese,
+205,Mughlai Chicken Handi,Lunch and Dinner,Non-Vegeterian,chicken, spices, ghee
+206,Butter Chicken,Lunch and Dinner,Non-Vegeterian,chicken, spices, butter
+207,South Indian Chicken masala,Lunch and Dinner,Non-Vegeterian,chicken, coconut mik , spices
+208,Chicken Chettinad,Lunch and Dinner,Non-Vegeterian,chicken, spices,
+209,Chicken Korma,Lunch and Dinner,Non-Vegeterian,chicken, coconut milk, spices
+210,Malvani Chicken Curry,Lunch and Dinner,Non-Vegeterian,chicken, coconut, spices
+211,Mutton Kofte,Lunch and Dinner,Non-Vegeterian,mutton, yogurt, spices
+212,Nihari Gosht,Lunch and Dinner,Non-Vegeterian,mutton, spices, yogurt
+213,Hyderabadi Keema,Lunch and Dinner,Non-Vegeterian,mutton, spices,
+214,Barbeque Chicken with Breast,Lunch and Dinner,Non-Vegeterian,chicken, spices,
+215,Chicken Madagascar,Lunch and Dinner,Non-Vegeterian,chicken, coconut milk, spices
+216,Chicken Pizza,Lunch and Dinner,Non-Vegeterian,chicken, pizza, cheese
+217,Mutton 65 Pizza,Lunch and Dinner,Non-Vegeterian,mutton, pizza, cheese
+218,Chicken Pepperoni Piza,Lunch and Dinner,Non-Vegeterian,chicken, pizza, cheese
+219,Chicken Kheema Balls Pizza,Lunch and Dinner,Non-Vegeterian,chicken, pizza, cheese
+220,Plain Rice,Lunch and Dinner,Vegetarian,rice,,
+221,Jeera Rice,Lunch and Dinner,Vegetarian,rice,,
+222,Matar Pulao,Lunch and Dinner,Vegetarian,rice,,
+223,Paneer Pulao,Lunch and Dinner,Vegetarian,rice, paneer,
+224,Veg Pulao,Lunch and Dinner,Vegetarian,rice, vegetables,
+225,Veg biryani,Lunch and Dinner,Vegetarian,rice, vegetables,
+226,Veg Dum Biryani,Lunch and Dinner,Vegetarian,rice, vegetables,
+227,Lemon Rice,Lunch and Dinner,Vegetarian,rice, lemon,
+228,Chicken Dum Biryani,Lunch and Dinner,Non-Vegeterian,rice, chicken,
+229,Chicken Fried Rice,Lunch and Dinner,Non-Vegeterian,rice, chicken,
+230,Prawns Biryani,Lunch and Dinner,Non-Vegeterian,rice, prawns,
+231,Chicken Pulao,Lunch and Dinner,Non-Vegeterian,rice, chicken,
+232,Mutton Dum Biryani,Lunch and Dinner,Non-Vegeterian,rice, mutton,
+233,Mutton Biryani,Lunch and Dinner,Non-Vegeterian,rice, mutton,
+234,Fish Biryani,Lunch and Dinner,Non-Vegeterian,fish, rice,
+235,Mixed Non-Veg Fried Rice,Lunch and Dinner,Non-Vegeterian,rice, vegetables, egg
+236,Mix-Veg Fried Rice,Lunch and Dinner,Vegetarian,rice, vegetables,
+237,Plain Roti,Lunch and Dinner,Vegetarian,flour, water,
+238,Butter Roti,Lunch and Dinner,Vegetarian,flour, butter,
+239,Plain Naan,Lunch and Dinner,Vegetarian,flour,,
+240,Butter Naan,Lunch and Dinner,Vegetarian,flour, butter,
+241,Garlic Naan,Lunch and Dinner,Vegetarian,flour, garlic,
+242,Lacha Paratha,Lunch and Dinner,Vegetarian,flour, ghee,
+243,Fresh Lime Soda,Lunch and Dinner,Vegetarian,lemon, soda,
+244,Lassi,Lunch and Dinner,Vegetarian,milk, sweet, curd
+245,Vanilla Milkshake,Lunch and Dinner,Vegetarian,milk, vanilla, sweet
+246,Chocolate Milkshake,Lunch and Dinner,Vegetarian,milk, chocolate, sweet
+247,Ice Tea,Lunch and Dinner,Vegetarian,tea, sweet, lemon
+248,Virgin Mojito,Lunch and Dinner,Vegetarian,soda, lemon,
+249,Gulab Jamun,Lunch and Dinner,Vegetarian,sweet, milk, ghee
+250,Ice-cream,Lunch and Dinner,Vegetarian,sweet, milk,
+251,Kesariya Kheer,Lunch and Dinner,Vegetarian,sweet, rice, milk
+252,Fruit cream,Lunch and Dinner,Vegetarian,sweet, fruits, cream
+253,Chocolate Brownie,Lunch and Dinner,Vegetarian,sweet, chocolate, milk
+254,Chocolate Pastry,Lunch and Dinner,Vegetarian,sweet, chocolate, milk
+255,Malai Kulfi,Lunch and Dinner,Vegetarian,sweet, milk, cream
+256,Shahi Tukda,Lunch and Dinner,Vegetarian,sweet, milk, bread
+257,Carrot Halwa,Lunch and Dinner,Vegetarian,sweet, carrot, ghee
+258,Moong daal Halwa,Lunch and Dinner,Vegetarian,sweet, dal, ghee

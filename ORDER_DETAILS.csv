@@ -1,0 +1,1326 @@
+"user_id","dish","dish_type","category","ingredient_1","ingredient_2","ingredient_3","rating"
+"U1077","Prawns Biryani","Lunch and Dinner","Non-Vegeterian","rice"," prawns",NULL,5
+"U1077","Chilli Potatoes","Lunch and Dinner","Vegetarian","potato"," sauce"," cornflour",1
+"U1077","Shahi Tukda","Lunch and Dinner","Vegetarian","sweet"," milk"," bread",1
+"U1077","Paneer Multani Tikka","Lunch and Dinner","Vegetarian","paneer","cheese","mushroom",1
+"U1068","Chilli Fish","Lunch and Dinner","Non-Vegeterian","fish"," corn flour"," sauce",3
+"U1068","Kadaai Paneer","Lunch and Dinner","Vegetarian","paneer"," vegetables"," spices",1
+"U1068","Bendekaayi Gojju (Ladys Finger Gravy)","Lunch and Dinner","Vegetarian","lady finger"," coconut"," pulses",1
+"U1068","Veg biryani","Lunch and Dinner","Vegetarian","rice"," vegetables",NULL,5
+"U1068","Veg Cutlet","Lunch and Dinner","Vegetarian","vegetables"," bread",NULL,2
+"U1067","Veg Platter","Lunch and Dinner","Vegetarian","vegetables"," yogurt"," lemon",1
+"U1067","Mushroom Malai Tikka","Lunch and Dinner","Vegetarian","mushroom"," cream"," spices",2
+"U1067","Chicken Tikka Dry","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," spices",5
+"U1067","Chicken Seekh Kabab","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," spices",5
+"U1067","Corn Cheese Pizza","Lunch and Dinner","Vegetarian","corn"," pizza"," cheese",5
+"U1067","Chicken Pulao","Lunch and Dinner","Non-Vegeterian","rice"," chicken",NULL,1
+"U1103","Gobi Manchurian","Lunch and Dinner","Vegetarian","corn flour"," vegetables"," sauce",4
+"U1103","Chicken Madagascar","Lunch and Dinner","Non-Vegeterian","chicken"," coconut milk"," spices",3
+"U1103","Chilli Mushroom","Lunch and Dinner","Vegetarian","mushroom"," corn flour"," sauce",2
+"U1103","Veg Manchurian","Lunch and Dinner","Vegetarian","vegetables"," corn flour"," sauce",5
+"U1103","Chicken Achari","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," spices",1
+"U1103","Chilli Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",4
+"U1103","Chicken Fry","Lunch and Dinner","Non-Vegeterian","chicken"," egg"," flour",3
+"U1103","Arachu Vitta Sambar","Lunch and Dinner","Vegetarian","vegetables"," dal"," sambar powder ",3
+"U1107","Veg Manchurian","Lunch and Dinner","Vegetarian","vegetables"," corn flour"," sauce",1
+"U1107","Prawns Manchurian","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",2
+"U1107","Carrot Halwa","Lunch and Dinner","Vegetarian","sweet"," carrot"," ghee",2
+"U1044","Lacha Paratha","Lunch and Dinner","Vegetarian","flour"," ghee",NULL,5
+"U1044","Ginger Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," spices"," pepper",3
+"U1070","Avial with Kerala Red Rice","Lunch and Dinner","Vegetarian","rice"," vegetables",NULL,4
+"U1070","Plain Naan","Lunch and Dinner","Vegetarian","flour",NULL,NULL,3
+"U1070","Veg biryani","Lunch and Dinner","Vegetarian","rice"," vegetables",NULL,1
+"U1031","Chilli Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",2
+"U1031","Golden Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",5
+"U1031","Chilli Potatoes","Lunch and Dinner","Vegetarian","potato"," sauce"," cornflour",1
+"U1082","Chicken Achari","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," spices",2
+"U1023","Chocolate Brownie","Lunch and Dinner","Vegetarian","sweet"," chocolate"," milk",2
+"U1023","Baby Corn","Lunch and Dinner","Vegetarian","corn"," corn flour"," sauce",3
+"U1082","Mushroom Masala","Lunch and Dinner","Vegetarian","mushroom"," spices",NULL,1
+"U1082","Chicken Pepperoni Piza","Lunch and Dinner","Non-Vegeterian","chicken"," pizza"," cheese",4
+"U1082","Farm Fresh Pizza","Lunch and Dinner","Vegetarian","pizza"," vegetables"," cheese",1
+"U1082","Chocolate Brownie","Lunch and Dinner","Vegetarian","sweet"," chocolate"," milk",4
+"U1082","Paneer Tikka Masala","Lunch and Dinner","Vegetarian","paneer"," spices"," lemon",2
+"U1082","Paneer Achari","Lunch and Dinner","Vegetarian","paneer","yogurt","vegetables",3
+"U1060","Jeera Rice","Lunch and Dinner","Vegetarian","rice",NULL,NULL,3
+"U1060","Mutton Dum Biryani","Lunch and Dinner","Non-Vegeterian","rice"," mutton",NULL,5
+"U1060","Fish Biryani","Lunch and Dinner","Non-Vegeterian","fish"," rice",NULL,1
+"U1060","Lemon Chicken","Lunch and Dinner","Non-Vegeterian","chicken"," lemon"," spices",4
+"U1015","Chocolate Milkshake","Lunch and Dinner","Vegetarian","milk"," chocolate"," sweet",5
+"U1123","Plain Roti","Lunch and Dinner","Vegetarian","flour"," water",NULL,4
+"U1123","Chilli Fish","Lunch and Dinner","Non-Vegeterian","fish"," corn flour"," sauce",4
+"U1123","Loose Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," spices",4
+"U1123","Chicken Fry","Lunch and Dinner","Non-Vegeterian","chicken"," egg"," flour",4
+"U1123","Cashew Chicken","Lunch and Dinner","Non-Vegeterian","chicken"," cashew"," sauce",2
+"U1123","Golden Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",2
+"U1123","Avial with Kerala Red Rice","Lunch and Dinner","Vegetarian","rice"," vegetables",NULL,1
+"U1123","Veg Dumplings","Lunch and Dinner","Vegetarian","flour"," vegetables",NULL,1
+"U1021","Moong daal Halwa","Lunch and Dinner","Vegetarian","sweet"," dal"," ghee",3
+"U1026","Baby Corn","Lunch and Dinner","Vegetarian","corn"," corn flour"," sauce",5
+"U1021","Moong daal Halwa","Lunch and Dinner","Vegetarian","sweet"," dal"," ghee",4
+"U1021","Chicken Dum Biryani","Lunch and Dinner","Non-Vegeterian","rice"," chicken",NULL,5
+"U1044","Paneer Achari","Lunch and Dinner","Vegetarian","paneer","yogurt","vegetables",4
+"U1083","Ice-cream","Lunch and Dinner","Vegetarian","sweet"," milk",NULL,1
+"U1083","Shahi Tukda","Lunch and Dinner","Vegetarian","sweet"," milk"," bread",1
+"U1083","Ice-cream","Lunch and Dinner","Vegetarian","sweet"," milk",NULL,5
+"U1108","Mixed Non-Veg Fried Rice","Lunch and Dinner","Non-Vegeterian","rice"," vegetables"," egg",4
+"U1108","Chicken Drum Sticks","Lunch and Dinner","Non-Vegeterian","chicken"," butter"," flour",2
+"U1108","Nihari Gosht","Lunch and Dinner","Non-Vegeterian","mutton"," spices"," yogurt",2
+"U1108","Pepper Garlic Chicken","Lunch and Dinner","Non-Vegeterian","chicken"," spices"," vegetables ",1
+"U1108","Chicken Pepperoni Piza","Lunch and Dinner","Non-Vegeterian","chicken"," pizza"," cheese",2
+"U1108","Fruit cream","Lunch and Dinner","Vegetarian","sweet"," fruits"," cream",1
+"U1108","Mutton Pepper Fry","Lunch and Dinner","Non-Vegeterian","mutton"," spices"," lemon",2
+"U1108","Matar Pulao","Lunch and Dinner","Vegetarian","rice",NULL,NULL,2
+"U1108","Matar Pulao","Lunch and Dinner","Vegetarian","rice",NULL,NULL,1
+"U1108","Chicken Chettinad","Lunch and Dinner","Non-Vegeterian","chicken"," spices",NULL,5
+"U1012","Chicken Korma","Lunch and Dinner","Non-Vegeterian","chicken"," coconut milk"," spices",5
+"U1012","Lemon Chicken","Lunch and Dinner","Non-Vegeterian","chicken"," lemon"," spices",2
+"U1012","Vanilla Milkshake","Lunch and Dinner","Vegetarian","milk"," vanilla"," sweet",1
+"U1093","Tandoori Fish","Lunch and Dinner","Non-Vegeterian","fish"," yogurt"," spices",1
+"U1093","Pepper Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," spices"," pepper",3
+"U1093","Golden Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",1
+"U1093","Paneer 65","Lunch and Dinner","Vegetarian","paneer"," rice flour"," spices",1
+"U1093","Fish Manchurian","Lunch and Dinner","Non-Vegeterian","fish"," corn flour"," sauce",2
+"U1030","Chicken Tandoori","Lunch and Dinner","Non-Vegeterian","chicken"," spices"," lemon",3
+"U1093","Chilli Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",4
+"U1030","Tandoori Fish","Lunch and Dinner","Non-Vegeterian","fish"," yogurt"," spices",2
+"U1012","Paneer Tikka","Lunch and Dinner","Vegetarian","paneer","yogurt","vegetables",3
+"U1012","Chicken Madagascar","Lunch and Dinner","Non-Vegeterian","chicken"," coconut milk"," spices",2
+"U1030","Plain Dosa","Lunch and Dinner","Vegetarian","black gram"," rice",NULL,4
+"U1093","Mutton Cutlet","Lunch and Dinner","Non-Vegeterian","mutton"," spices"," potato",5
+"U1030","Chicken Tikka Dry","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," spices",4
+"U1093","Paneer Achari","Lunch and Dinner","Vegetarian","paneer","yogurt","vegetables",3
+"U1030","Mixed Non-Veg Fried Rice","Lunch and Dinner","Non-Vegeterian","rice"," vegetables"," egg",3
+"U1030","Paneer Amritsari Tikka","Lunch and Dinner","Vegetarian","paneer"," lemon"," spices",2
+"U1030","Mushroom Tikka","Lunch and Dinner","Vegetarian","mushroom"," yogurt"," spices",4
+"U1030","Veg biryani","Lunch and Dinner","Vegetarian","rice"," vegetables",NULL,2
+"U1066","Chicken Dum Biryani","Lunch and Dinner","Non-Vegeterian","rice"," chicken",NULL,5
+"U1066","Mutton Fry","Lunch and Dinner","Non-Vegeterian","mutton"," spices",NULL,2
+"U1127","Veg Platter","Lunch and Dinner","Vegetarian","vegetables"," yogurt"," lemon",5
+"U1127","Chicken Chettinad","Lunch and Dinner","Non-Vegeterian","chicken"," spices",NULL,3
+"U1127","Mushroom Malai Tikka","Lunch and Dinner","Vegetarian","mushroom"," cream"," spices",5
+"U1127","Golden Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",3
+"U1017","Lemon Chicken","Lunch and Dinner","Non-Vegeterian","chicken"," lemon"," spices",4
+"U1066","Chilli Potatoes","Lunch and Dinner","Vegetarian","potato"," sauce"," cornflour",3
+"U1017","Chicken Pakora","Lunch and Dinner","Non-Vegeterian","chicken"," rice flour"," spices",4
+"U1017","Prawns Manchurian","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",1
+"U1066","Aloo Gobi Masala","Lunch and Dinner","Vegetarian","vegetables"," spices"," potato",5
+"U1100","Lassi","Lunch and Dinner","Vegetarian","milk"," sweet"," curd",5
+"U1100","Fresh Lime Soda","Lunch and Dinner","Vegetarian","lemon"," soda",NULL,1
+"U1066","Dal Tadka","Lunch and Dinner","Vegetarian","pulses",NULL,NULL,1
+"U1100","Veg Dumplings","Lunch and Dinner","Vegetarian","flour"," vegetables",NULL,3
+"U1100","Butter Roti","Lunch and Dinner","Vegetarian","flour"," butter",NULL,5
+"U1100","South Indian Chicken masala","Lunch and Dinner","Non-Vegeterian","chicken"," coconut mik "," spices",1
+"U1100","Barbeque Chicken with Breast","Lunch and Dinner","Non-Vegeterian","chicken"," spices",NULL,1
+"U1133","Nihari Gosht","Lunch and Dinner","Non-Vegeterian","mutton"," spices"," yogurt",3
+"U1133","Apollo Fish","Lunch and Dinner","Non-Vegeterian","fish"," corn flour"," sauce",4
+"U1133","Butter Garlic Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",2
+"U1133","Carrot Halwa","Lunch and Dinner","Vegetarian","sweet"," carrot"," ghee",3
+"U1133","Prawns Manchurian","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",1
+"U1133","Chilli Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",2
+"U1133","Tandoori Fish","Lunch and Dinner","Non-Vegeterian","fish"," yogurt"," spices",1
+"U1133","Malvani Chicken Curry","Lunch and Dinner","Non-Vegeterian","chicken"," coconut"," spices",4
+"U1133","Shahi Tukda","Lunch and Dinner","Vegetarian","sweet"," milk"," bread",3
+"U1118","Mughlai Chicken Handi","Lunch and Dinner","Non-Vegeterian","chicken"," spices"," ghee",2
+"U1072","Plain Dosa","Lunch and Dinner","Vegetarian","black gram"," rice",NULL,5
+"U1072","Fresh Lime Soda","Lunch and Dinner","Vegetarian","lemon"," soda",NULL,3
+"U1072","Veg Dum Biryani","Lunch and Dinner","Vegetarian","rice"," vegetables",NULL,5
+"U1026","Fruit cream","Lunch and Dinner","Vegetarian","sweet"," fruits"," cream",5
+"U1026","Chocolate Pastry","Lunch and Dinner","Vegetarian","sweet"," chocolate"," milk",2
+"U1026","Ginger Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," spices"," pepper",4
+"U1026","Chicken Fry","Lunch and Dinner","Non-Vegeterian","chicken"," egg"," flour",5
+"U1023","Jeera Rice","Lunch and Dinner","Vegetarian","rice",NULL,NULL,2
+"U1023","Seekh Kabab","Lunch and Dinner","Non-Vegeterian","mutton"," yogurt"," spices",2
+"U1080","Plain Naan","Lunch and Dinner","Vegetarian","flour",NULL,NULL,5
+"U1080","Chicken Fried Rice","Lunch and Dinner","Non-Vegeterian","rice"," chicken",NULL,4
+"U1080","Baby Corn","Lunch and Dinner","Vegetarian","corn"," corn flour"," sauce",3
+"U1080","Avial with Kerala Red Rice","Lunch and Dinner","Vegetarian","rice"," vegetables",NULL,3
+"U1063","Margarita Pizza","Lunch and Dinner","Vegetarian","pizza"," cheese",NULL,3
+"U1063","Hyderabadi Keema","Lunch and Dinner","Non-Vegeterian","mutton"," spices",NULL,2
+"U1063","Chicken Pakora","Lunch and Dinner","Non-Vegeterian","chicken"," rice flour"," spices",5
+"U1063","Margarita Pizza","Lunch and Dinner","Vegetarian","pizza"," cheese",NULL,3
+"U1063","Fresh Lime Soda","Lunch and Dinner","Vegetarian","lemon"," soda",NULL,4
+"U1080","Hara Bara Kabab","Lunch and Dinner","Vegetarian","vegetables"," flour"," bread",1
+"U1080","Pepper Garlic Chicken","Lunch and Dinner","Non-Vegeterian","chicken"," spices"," vegetables ",2
+"U1082","Prawns Fry","Lunch and Dinner","Non-Vegeterian","fish"," prawns"," yogurt",5
+"U1082","Chicken Fried Rice","Lunch and Dinner","Non-Vegeterian","rice"," chicken",NULL,1
+"U1074","Apollo Fish","Lunch and Dinner","Non-Vegeterian","fish"," corn flour"," sauce",2
+"U1074","Avial with Kerala Red Rice","Lunch and Dinner","Vegetarian","rice"," vegetables",NULL,3
+"U1074","Arachu Vitta Sambar","Lunch and Dinner","Vegetarian","vegetables"," dal"," sambar powder ",1
+"U1117","Mango Kuzhambu","Lunch and Dinner","Vegetarian","mango",NULL,NULL,2
+"U1117","Fish Manchurian","Lunch and Dinner","Non-Vegeterian","fish"," corn flour"," sauce",4
+"U1117","Plain Roti","Lunch and Dinner","Vegetarian","flour"," water",NULL,2
+"U1117","Fresh Lime Soda","Lunch and Dinner","Vegetarian","lemon"," soda",NULL,1
+"U1117","Pepper Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," spices"," pepper",1
+"U1117","Pepper Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," spices"," pepper",3
+"U1118","Murgh Tangdi Kabab","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," lemon",4
+"U1118","Paneer Butter Masala","Lunch and Dinner","Vegetarian","paneer"," spices"," cream",4
+"U1118","Veg Dumplings","Lunch and Dinner","Vegetarian","flour"," vegetables",NULL,1
+"U1118","Chicken Pizza","Lunch and Dinner","Non-Vegeterian","chicken"," pizza"," cheese",3
+"U1118","Chicken Madagascar","Lunch and Dinner","Non-Vegeterian","chicken"," coconut milk"," spices",5
+"U1118","Vanilla Milkshake","Lunch and Dinner","Vegetarian","milk"," vanilla"," sweet",1
+"U1020","Tandoori Fish","Lunch and Dinner","Non-Vegeterian","fish"," yogurt"," spices",4
+"U1020","Barbeque Chicken with Breast","Lunch and Dinner","Non-Vegeterian","chicken"," spices",NULL,3
+"U1020","Chicken Fried Rice","Lunch and Dinner","Non-Vegeterian","rice"," chicken",NULL,5
+"U1020","Mutton 65 Pizza","Lunch and Dinner","Non-Vegeterian","mutton"," pizza"," cheese",4
+"U1051","Ice-cream","Lunch and Dinner","Vegetarian","sweet"," milk",NULL,5
+"U1051","Mutton Kofte","Lunch and Dinner","Non-Vegeterian","mutton"," yogurt"," spices",2
+"U1051","Fish Fry","Lunch and Dinner","Non-Vegeterian","fish"," spices"," lemon",2
+"U1055","Jeera Rice","Lunch and Dinner","Vegetarian","rice",NULL,NULL,1
+"U1055","Paneer Butter Masala","Lunch and Dinner","Vegetarian","paneer"," spices"," cream",5
+"U1055","Veg biryani","Lunch and Dinner","Vegetarian","rice"," vegetables",NULL,4
+"U1055","Chilli Mushroom","Lunch and Dinner","Vegetarian","mushroom"," corn flour"," sauce",3
+"U1055","Mutton Cutlet","Lunch and Dinner","Non-Vegeterian","mutton"," spices"," potato",5
+"U1083","Prawns Manchurian","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",1
+"U1083","Paneer Amritsari Tikka","Lunch and Dinner","Vegetarian","paneer"," lemon"," spices",4
+"U1055","Butter Garlic Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",1
+"U1083","Murgh Tangdi Kabab","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," lemon",4
+"U1083","Paneer Achari","Lunch and Dinner","Vegetarian","paneer","yogurt","vegetables",5
+"U1083","Mutton Pepper Fry","Lunch and Dinner","Non-Vegeterian","mutton"," spices"," lemon",2
+"U1083","Gulab Jamun","Lunch and Dinner","Vegetarian","sweet"," milk"," ghee",5
+"U1055","Mushroom Malai Tikka","Lunch and Dinner","Vegetarian","mushroom"," cream"," spices",3
+"U1055","Mutton Biryani","Lunch and Dinner","Non-Vegeterian","rice"," mutton",NULL,1
+"U1055","Paneer Pulao","Lunch and Dinner","Vegetarian","rice"," paneer",NULL,4
+"U1055","Murgh Lasooni Kabab","Lunch and Dinner","Non-Vegeterian","chicken"," cream"," spices",5
+"U1053","Chicken Tikka Dry","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," spices",4
+"U1053","Corn Cheese Pizza","Lunch and Dinner","Vegetarian","corn"," pizza"," cheese",1
+"U1053","Ice-cream","Lunch and Dinner","Vegetarian","sweet"," milk",NULL,3
+"U1053","Bharwa Aloo","Lunch and Dinner","Vegetarian","potato"," cheese"," spices ",1
+"U1035","Chicken Manchurian","Lunch and Dinner","Non-Vegeterian","chicken"," sauce"," corn flour",4
+"U1035","Chicken Dum Biryani","Lunch and Dinner","Non-Vegeterian","rice"," chicken",NULL,1
+"U1053","Veg Pulao","Lunch and Dinner","Vegetarian","rice"," vegetables",NULL,1
+"U1053","Veg Pakora","Lunch and Dinner","Vegetarian","vegetables"," flour ",NULL,2
+"U1053","Farm Fresh Pizza","Lunch and Dinner","Vegetarian","pizza"," vegetables"," cheese",4
+"U1035","Ice Tea","Lunch and Dinner","Vegetarian","tea"," sweet"," lemon",2
+"U1053","Mango Kuzhambu","Lunch and Dinner","Vegetarian","mango",NULL,NULL,2
+"U1053","Dal Tadka","Lunch and Dinner","Vegetarian","pulses",NULL,NULL,2
+"U1053","Chicken Madagascar","Lunch and Dinner","Non-Vegeterian","chicken"," coconut milk"," spices",5
+"U1053","Paneer Achari","Lunch and Dinner","Vegetarian","paneer","yogurt","vegetables",1
+"U1053","Shahi Tukda","Lunch and Dinner","Vegetarian","sweet"," milk"," bread",5
+"U1053","Veg Pulao","Lunch and Dinner","Vegetarian","rice"," vegetables",NULL,4
+"U1064","Apollo Fish","Lunch and Dinner","Non-Vegeterian","fish"," corn flour"," sauce",2
+"U1081","Chicken Pizza","Lunch and Dinner","Non-Vegeterian","chicken"," pizza"," cheese",1
+"U1064","Chicken Chettinad","Lunch and Dinner","Non-Vegeterian","chicken"," spices",NULL,1
+"U1081","Pepper Mutton","Lunch and Dinner","Non-Vegeterian","mutton"," spices"," lemon",1
+"U1081","Mutton Dum Biryani","Lunch and Dinner","Non-Vegeterian","rice"," mutton",NULL,1
+"U1064","Chicken Manchurian","Lunch and Dinner","Non-Vegeterian","chicken"," sauce"," corn flour",3
+"U1081","Carrot Halwa","Lunch and Dinner","Vegetarian","sweet"," carrot"," ghee",4
+"U1064","Cashew Chicken","Lunch and Dinner","Non-Vegeterian","chicken"," cashew"," sauce",3
+"U1064","Paneer Butter Masala","Lunch and Dinner","Vegetarian","paneer"," spices"," cream",5
+"U1081","Murgh Lasooni Kabab","Lunch and Dinner","Non-Vegeterian","chicken"," cream"," spices",1
+"U1081","Chilli Potatoes","Lunch and Dinner","Vegetarian","potato"," sauce"," cornflour",2
+"U1081","Chicken RR","Lunch and Dinner","Non-Vegeterian","chicken"," pasta"," sauce",2
+"U1081","Chicken Pepperoni Piza","Lunch and Dinner","Non-Vegeterian","chicken"," pizza"," cheese",2
+"U1081","Veg Dum Biryani","Lunch and Dinner","Vegetarian","rice"," vegetables",NULL,3
+"U1081","Lemon Rice","Lunch and Dinner","Vegetarian","rice"," lemon",NULL,3
+"U1081","Margarita Pizza","Lunch and Dinner","Vegetarian","pizza"," cheese",NULL,5
+"U1001","Farm Fresh Pizza","Lunch and Dinner","Vegetarian","pizza"," vegetables"," cheese",4
+"U1001","Chicken Seekh Kabab","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," spices",2
+"U1014","Hyderabadi Keema","Lunch and Dinner","Non-Vegeterian","mutton"," spices",NULL,2
+"U1088","Chicken Majestic","Lunch and Dinner","Non-Vegeterian","chicken"," butter"," flour",1
+"U1088","Veg Pakora","Lunch and Dinner","Vegetarian","vegetables"," flour ",NULL,2
+"U1014","Moong daal Halwa","Lunch and Dinner","Vegetarian","sweet"," dal"," ghee",2
+"U1014","Chicken Pulao","Lunch and Dinner","Non-Vegeterian","rice"," chicken",NULL,2
+"U1088","Chocolate Brownie","Lunch and Dinner","Vegetarian","sweet"," chocolate"," milk",3
+"U1014","Butter Chicken","Lunch and Dinner","Non-Vegeterian","chicken"," spices"," butter",2
+"U1014","Chicken Drum Sticks","Lunch and Dinner","Non-Vegeterian","chicken"," butter"," flour",4
+"U1014","Pepper Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," spices"," pepper",5
+"U1088","Veg Manchurian","Lunch and Dinner","Vegetarian","vegetables"," corn flour"," sauce",5
+"U1088","Chicken Tandoori","Lunch and Dinner","Non-Vegeterian","chicken"," spices"," lemon",2
+"U1088","Mughlai Chicken Handi","Lunch and Dinner","Non-Vegeterian","chicken"," spices"," ghee",5
+"U1014","Gulab Jamun","Lunch and Dinner","Vegetarian","sweet"," milk"," ghee",1
+"U1014","Mango Kuzhambu","Lunch and Dinner","Vegetarian","mango",NULL,NULL,2
+"U1088","Chicken Pepperoni Piza","Lunch and Dinner","Non-Vegeterian","chicken"," pizza"," cheese",5
+"U1088","Ginger Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," spices"," pepper",3
+"U1088","Pepper Garlic Chicken","Lunch and Dinner","Non-Vegeterian","chicken"," spices"," vegetables ",2
+"U1014","Plain Naan","Lunch and Dinner","Vegetarian","flour",NULL,NULL,1
+"U1088","Mix Veg Curry","Lunch and Dinner","Vegetarian","vegetables"," spices",NULL,4
+"U1088","Chocolate Milkshake","Lunch and Dinner","Vegetarian","milk"," chocolate"," sweet",1
+"U1088","Fish Biryani","Lunch and Dinner","Non-Vegeterian","fish"," rice",NULL,4
+"U1014","Haryali Paneer Tikka","Lunch and Dinner","Vegetarian","paneer","yogurt"," spices",2
+"U1014","Mutton Biryani","Lunch and Dinner","Non-Vegeterian","rice"," mutton",NULL,1
+"U1056","Mutton RR","Lunch and Dinner","Non-Vegeterian","mutton"," pasta"," sauce",4
+"U1056","Chicken Pakora","Lunch and Dinner","Non-Vegeterian","chicken"," rice flour"," spices",3
+"U1056","Chicken 65","Lunch and Dinner","Non-Vegeterian","chicken"," rice flour"," spices",2
+"U1056","Chicken Korma","Lunch and Dinner","Non-Vegeterian","chicken"," coconut milk"," spices",2
+"U1056","Chicken Fried Rice","Lunch and Dinner","Non-Vegeterian","rice"," chicken",NULL,4
+"U1056","Paneer Butter Masala","Lunch and Dinner","Vegetarian","paneer"," spices"," cream",3
+"U1056","Plain Roti","Lunch and Dinner","Vegetarian","flour"," water",NULL,3
+"U1056","Golden Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",5
+"U1056","Veg Dum Biryani","Lunch and Dinner","Vegetarian","rice"," vegetables",NULL,1
+"U1056","Lacha Paratha","Lunch and Dinner","Vegetarian","flour"," ghee",NULL,2
+"U1134","Murgh Lasooni Kabab","Lunch and Dinner","Non-Vegeterian","chicken"," cream"," spices",1
+"U1134","Mixed Non-Veg Fried Rice","Lunch and Dinner","Non-Vegeterian","rice"," vegetables"," egg",2
+"U1134","Arachu Vitta Sambar","Lunch and Dinner","Vegetarian","vegetables"," dal"," sambar powder ",2
+"U1134","Plain Naan","Lunch and Dinner","Vegetarian","flour",NULL,NULL,2
+"U1134","Mutton Awadhi Kabab","Lunch and Dinner","Non-Vegeterian","mutton"," papaya"," spices",2
+"U1134","Chilli Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",3
+"U1134","Chicken Manchurian","Lunch and Dinner","Non-Vegeterian","chicken"," sauce"," corn flour",4
+"U1134","Mutton Fry","Lunch and Dinner","Non-Vegeterian","mutton"," spices",NULL,1
+"U1134","Barbeque Chicken with Breast","Lunch and Dinner","Non-Vegeterian","chicken"," spices",NULL,2
+"U1134","Chicken Kheema Balls Pizza","Lunch and Dinner","Non-Vegeterian","chicken"," pizza"," cheese",2
+"U1134","Mango Kuzhambu","Lunch and Dinner","Vegetarian","mango",NULL,NULL,4
+"U1134","Lemon Chicken","Lunch and Dinner","Non-Vegeterian","chicken"," lemon"," spices",2
+"U1134","Mutton Cutlet","Lunch and Dinner","Non-Vegeterian","mutton"," spices"," potato",1
+"U1134","Chicken Korma","Lunch and Dinner","Non-Vegeterian","chicken"," coconut milk"," spices",3
+"U1106","Prawns Fry","Lunch and Dinner","Non-Vegeterian","fish"," prawns"," yogurt",5
+"U1126","Fresh Lime Soda","Lunch and Dinner","Vegetarian","lemon"," soda",NULL,3
+"U1106","Kadaai Paneer","Lunch and Dinner","Vegetarian","paneer"," vegetables"," spices",4
+"U1126","Kadaai Paneer","Lunch and Dinner","Vegetarian","paneer"," vegetables"," spices",1
+"U1126","Lacha Paratha","Lunch and Dinner","Vegetarian","flour"," ghee",NULL,1
+"U1106","Pepper Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," spices"," pepper",5
+"U1126","Chilli Potatoes","Lunch and Dinner","Vegetarian","potato"," sauce"," cornflour",1
+"U1126","Prawns Biryani","Lunch and Dinner","Non-Vegeterian","rice"," prawns",NULL,4
+"U1126","Plain Roti","Lunch and Dinner","Vegetarian","flour"," water",NULL,1
+"U1126","Margarita Pizza","Lunch and Dinner","Vegetarian","pizza"," cheese",NULL,2
+"U1126","Jeera Rice","Lunch and Dinner","Vegetarian","rice",NULL,NULL,4
+"U1126","Fresh Lime Soda","Lunch and Dinner","Vegetarian","lemon"," soda",NULL,2
+"U1126","Veg Pulao","Lunch and Dinner","Vegetarian","rice"," vegetables",NULL,3
+"U1044","Chicken Tandoori","Lunch and Dinner","Non-Vegeterian","chicken"," spices"," lemon",2
+"U1124","Chicken Manchurian","Lunch and Dinner","Non-Vegeterian","chicken"," sauce"," corn flour",3
+"U1044","Farm Fresh Pizza","Lunch and Dinner","Vegetarian","pizza"," vegetables"," cheese",3
+"U1124","Hyderabadi Keema","Lunch and Dinner","Non-Vegeterian","mutton"," spices",NULL,5
+"U1124","Fish Biryani","Lunch and Dinner","Non-Vegeterian","fish"," rice",NULL,3
+"U1124","Chicken 65","Lunch and Dinner","Non-Vegeterian","chicken"," rice flour"," spices",2
+"U1124","Mix-Veg Fried Rice","Lunch and Dinner","Vegetarian","rice"," vegetables",NULL,1
+"U1124","Lassi","Lunch and Dinner","Vegetarian","milk"," sweet"," curd",1
+"U1124","Plain Rice","Lunch and Dinner","Vegetarian","rice",NULL,NULL,2
+"U1124","Chicken Manchurian","Lunch and Dinner","Non-Vegeterian","chicken"," sauce"," corn flour",4
+"U1124","Mushroom Masala","Lunch and Dinner","Vegetarian","mushroom"," spices",NULL,4
+"U1124","Chicken Seekh Kabab","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," spices",1
+"U1018","Mutton 65 Pizza","Lunch and Dinner","Non-Vegeterian","mutton"," pizza"," cheese",3
+"U1125","Mushroom Malai Tikka","Lunch and Dinner","Vegetarian","mushroom"," cream"," spices",1
+"U1125","Plain Naan","Lunch and Dinner","Vegetarian","flour",NULL,NULL,3
+"U1125","Chicken Fried Rice","Lunch and Dinner","Non-Vegeterian","rice"," chicken",NULL,4
+"U1018","Mutton 65","Lunch and Dinner","Non-Vegeterian","mutton"," rice flour"," spices",2
+"U1125","Mix-Veg Fried Rice","Lunch and Dinner","Vegetarian","rice"," vegetables",NULL,5
+"U1125","Hara Bara Kabab","Lunch and Dinner","Vegetarian","vegetables"," flour"," bread",4
+"U1125","Chicken Majestic","Lunch and Dinner","Non-Vegeterian","chicken"," butter"," flour",1
+"U1119","Murgh Tangdi Kabab","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," lemon",2
+"U1119","Chicken Tandoori","Lunch and Dinner","Non-Vegeterian","chicken"," spices"," lemon",2
+"U1119","Gulab Jamun","Lunch and Dinner","Vegetarian","sweet"," milk"," ghee",2
+"U1125","Chilli Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",5
+"U1119","Chicken Tikka Dry","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," spices",1
+"U1125","Chicken Fried Rice","Lunch and Dinner","Non-Vegeterian","rice"," chicken",NULL,3
+"U1119","Lacha Paratha","Lunch and Dinner","Vegetarian","flour"," ghee",NULL,5
+"U1125","Mughlai Chicken Handi","Lunch and Dinner","Non-Vegeterian","chicken"," spices"," ghee",2
+"U1125","Nihari Gosht","Lunch and Dinner","Non-Vegeterian","mutton"," spices"," yogurt",5
+"U1125","Mixed Non-Veg Fried Rice","Lunch and Dinner","Non-Vegeterian","rice"," vegetables"," egg",2
+"U1018","Chilli Paneer","Lunch and Dinner","Vegetarian","paneer"," corn flour"," sauce",2
+"U1018","Veg Pakora","Lunch and Dinner","Vegetarian","vegetables"," flour ",NULL,4
+"U1018","Mushroom Malai Tikka","Lunch and Dinner","Vegetarian","mushroom"," cream"," spices",3
+"U1018","Prawns Manchurian","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",3
+"U1018","Chicken Roast","Lunch and Dinner","Non-Vegeterian","chicken"," spices"," lemon",3
+"U1018","Jeera Rice","Lunch and Dinner","Vegetarian","rice",NULL,NULL,2
+"U1018","Chicken Dum Biryani","Lunch and Dinner","Non-Vegeterian","rice"," chicken",NULL,4
+"U1018","Chicken Fry","Lunch and Dinner","Non-Vegeterian","chicken"," egg"," flour",4
+"U1076","Fish Manchurian","Lunch and Dinner","Non-Vegeterian","fish"," corn flour"," sauce",5
+"U1076","Veg lollipop","Lunch and Dinner","Vegetarian","vegetables"," corn flour"," spices",4
+"U1076","Paneer 65","Lunch and Dinner","Vegetarian","paneer"," rice flour"," spices",5
+"U1076","South Indian Chicken masala","Lunch and Dinner","Non-Vegeterian","chicken"," coconut mik "," spices",2
+"U1022","Matar Pulao","Lunch and Dinner","Vegetarian","rice",NULL,NULL,5
+"U1076","Veg Pulao","Lunch and Dinner","Vegetarian","rice"," vegetables",NULL,1
+"U1022","Golden Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",1
+"U1022","Dal Tadka","Lunch and Dinner","Vegetarian","pulses",NULL,NULL,3
+"U1022","Paneer 65","Lunch and Dinner","Vegetarian","paneer"," rice flour"," spices",2
+"U1022","Mutton Biryani","Lunch and Dinner","Non-Vegeterian","rice"," mutton",NULL,1
+"U1022","Mutton Seekh Kabab","Lunch and Dinner","Non-Vegeterian","mutton"," spices"," egg",4
+"U1022","Farm Fresh Pizza","Lunch and Dinner","Vegetarian","pizza"," vegetables"," cheese",5
+"U1022","Mushroom Malai Tikka","Lunch and Dinner","Vegetarian","mushroom"," cream"," spices",1
+"U1022","Veg Spring Rolls","Lunch and Dinner","Vegetarian","vegetables"," flour"," flour",1
+"U1022","Loose Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," spices",2
+"U1022","Butter Roti","Lunch and Dinner","Vegetarian","flour"," butter",NULL,4
+"U1022","Murgh Tangdi Kabab","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," lemon",3
+"U1022","Pepper Mutton","Lunch and Dinner","Non-Vegeterian","mutton"," spices"," lemon",1
+"U1022","Mutton Awadhi Kabab","Lunch and Dinner","Non-Vegeterian","mutton"," papaya"," spices",2
+"U1094","Chilli Fish","Lunch and Dinner","Non-Vegeterian","fish"," corn flour"," sauce",4
+"U1094","Chilli Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",1
+"U1094","Fish Fry","Lunch and Dinner","Non-Vegeterian","fish"," spices"," lemon",2
+"U1094","Mix-Veg Fried Rice","Lunch and Dinner","Vegetarian","rice"," vegetables",NULL,3
+"U1094","Chicken Pepperoni Piza","Lunch and Dinner","Non-Vegeterian","chicken"," pizza"," cheese",3
+"U1094","Mutton Biryani","Lunch and Dinner","Non-Vegeterian","rice"," mutton",NULL,2
+"U1094","Chicken Achari","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," spices",2
+"U1094","Mutton RR","Lunch and Dinner","Non-Vegeterian","mutton"," pasta"," sauce",3
+"U1116","Paneer Tikka Masala","Lunch and Dinner","Vegetarian","paneer"," spices"," lemon",4
+"U1116","Barbeque Chicken with Breast","Lunch and Dinner","Non-Vegeterian","chicken"," spices",NULL,1
+"U1116","Avial with Kerala Red Rice","Lunch and Dinner","Vegetarian","rice"," vegetables",NULL,4
+"U1116","Veg biryani","Lunch and Dinner","Vegetarian","rice"," vegetables",NULL,5
+"U1116","Pepper Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," spices"," pepper",5
+"U1116","Garlic Naan","Lunch and Dinner","Vegetarian","flour"," garlic",NULL,1
+"U1116","Butter Naan","Lunch and Dinner","Vegetarian","flour"," butter",NULL,4
+"U1116","Chicken Madagascar","Lunch and Dinner","Non-Vegeterian","chicken"," coconut milk"," spices",5
+"U1116","Mutton Pepper Fry","Lunch and Dinner","Non-Vegeterian","mutton"," spices"," lemon",5
+"U1116","Chilli Potatoes","Lunch and Dinner","Vegetarian","potato"," sauce"," cornflour",1
+"U1116","Chicken Kheema Balls Pizza","Lunch and Dinner","Non-Vegeterian","chicken"," pizza"," cheese",1
+"U1105","Butter Roti","Lunch and Dinner","Vegetarian","flour"," butter",NULL,1
+"U1105","Vanilla Milkshake","Lunch and Dinner","Vegetarian","milk"," vanilla"," sweet",4
+"U1105","Mutton Biryani","Lunch and Dinner","Non-Vegeterian","rice"," mutton",NULL,1
+"U1105","Chicken Dum Biryani","Lunch and Dinner","Non-Vegeterian","rice"," chicken",NULL,5
+"U1105","Malvani Chicken Curry","Lunch and Dinner","Non-Vegeterian","chicken"," coconut"," spices",1
+"U1105","Carrot Halwa","Lunch and Dinner","Vegetarian","sweet"," carrot"," ghee",5
+"U1105","Mushroom Tikka","Lunch and Dinner","Vegetarian","mushroom"," yogurt"," spices",2
+"U1105","Veg Dum Biryani","Lunch and Dinner","Vegetarian","rice"," vegetables",NULL,3
+"U1075","Veg Cutlet","Lunch and Dinner","Vegetarian","vegetables"," bread",NULL,1
+"U1075","Nihari Gosht","Lunch and Dinner","Non-Vegeterian","mutton"," spices"," yogurt",3
+"U1075","Mix Veg Curry","Lunch and Dinner","Vegetarian","vegetables"," spices",NULL,5
+"U1007","Paneer Tikka Masala","Lunch and Dinner","Vegetarian","paneer"," spices"," lemon",2
+"U1075","Margarita Pizza","Lunch and Dinner","Vegetarian","pizza"," cheese",NULL,1
+"U1007","Veg Dum Biryani","Lunch and Dinner","Vegetarian","rice"," vegetables",NULL,2
+"U1075","Barbeque Chicken with Breast","Lunch and Dinner","Non-Vegeterian","chicken"," spices",NULL,4
+"U1075","Veg Manchurian","Lunch and Dinner","Vegetarian","vegetables"," corn flour"," sauce",3
+"U1075","Veg Manchurian","Lunch and Dinner","Vegetarian","vegetables"," corn flour"," sauce",2
+"U1075","Chilli Chicken","Lunch and Dinner","Non-Vegeterian","chicken"," sauce"," corn flour",5
+"U1075","Bharwa Aloo","Lunch and Dinner","Vegetarian","potato"," cheese"," spices ",4
+"U1075","Fruit cream","Lunch and Dinner","Vegetarian","sweet"," fruits"," cream",5
+"U1075","Chicken Fried Rice","Lunch and Dinner","Non-Vegeterian","rice"," chicken",NULL,5
+"U1075","Mughlai Chicken Handi","Lunch and Dinner","Non-Vegeterian","chicken"," spices"," ghee",5
+"U1115","Pepper Mutton","Lunch and Dinner","Non-Vegeterian","mutton"," spices"," lemon",2
+"U1115","Lacha Paratha","Lunch and Dinner","Vegetarian","flour"," ghee",NULL,1
+"U1115","Kesariya Kheer","Lunch and Dinner","Vegetarian","sweet"," rice"," milk",4
+"U1115","Pepper Garlic Chicken","Lunch and Dinner","Non-Vegeterian","chicken"," spices"," vegetables ",3
+"U1115","Aloo Gobi Masala","Lunch and Dinner","Vegetarian","vegetables"," spices"," potato",4
+"U1115","Mix Veg Curry","Lunch and Dinner","Vegetarian","vegetables"," spices",NULL,4
+"U1115","Mutton RR","Lunch and Dinner","Non-Vegeterian","mutton"," pasta"," sauce",5
+"U1115","Fish Biryani","Lunch and Dinner","Non-Vegeterian","fish"," rice",NULL,3
+"U1072","Chicken Pakora","Lunch and Dinner","Non-Vegeterian","chicken"," rice flour"," spices",4
+"U1024","Chicken Tandoori","Lunch and Dinner","Non-Vegeterian","chicken"," spices"," lemon",2
+"U1024","Vanilla Milkshake","Lunch and Dinner","Vegetarian","milk"," vanilla"," sweet",3
+"U1024","Loose Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," spices",2
+"U1024","Bendekaayi Gojju (Ladys Finger Gravy)","Lunch and Dinner","Vegetarian","lady finger"," coconut"," pulses",4
+"U1024","Chicken Korma","Lunch and Dinner","Non-Vegeterian","chicken"," coconut milk"," spices",4
+"U1024","Veg Spring Rolls","Lunch and Dinner","Vegetarian","vegetables"," flour"," flour",4
+"U1024","Chicken Madagascar","Lunch and Dinner","Non-Vegeterian","chicken"," coconut milk"," spices",2
+"U1024","Nihari Gosht","Lunch and Dinner","Non-Vegeterian","mutton"," spices"," yogurt",2
+"U1024","Chilli Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",3
+"U1024","Chicken Tandoori","Lunch and Dinner","Non-Vegeterian","chicken"," spices"," lemon",3
+"U1024","Haryali Paneer Tikka","Lunch and Dinner","Vegetarian","paneer","yogurt"," spices",3
+"U1024","Kesariya Kheer","Lunch and Dinner","Vegetarian","sweet"," rice"," milk",4
+"U1024","Golden Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",5
+"U1024","Shahi Tukda","Lunch and Dinner","Vegetarian","sweet"," milk"," bread",4
+"U1024","Virgin Mojito","Lunch and Dinner","Vegetarian","soda"," lemon",NULL,3
+"U1132","Veg lollipop","Lunch and Dinner","Vegetarian","vegetables"," corn flour"," spices",5
+"U1132","Bendekaayi Gojju (Ladys Finger Gravy)","Lunch and Dinner","Vegetarian","lady finger"," coconut"," pulses",3
+"U1132","Chicken Pulao","Lunch and Dinner","Non-Vegeterian","rice"," chicken",NULL,1
+"U1132","Chicken Majestic","Lunch and Dinner","Non-Vegeterian","chicken"," butter"," flour",2
+"U1132","Veg Pulao","Lunch and Dinner","Vegetarian","rice"," vegetables",NULL,3
+"U1132","Chicken Tikka Dry","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," spices",5
+"U1132","Seekh Kabab","Lunch and Dinner","Non-Vegeterian","mutton"," yogurt"," spices",4
+"U1132","Chilli Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",2
+"U1005","Jeera Rice","Lunch and Dinner","Vegetarian","rice",NULL,NULL,2
+"U1005","Chicken Roast","Lunch and Dinner","Non-Vegeterian","chicken"," spices"," lemon",2
+"U1005","Pepper Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," spices"," pepper",2
+"U1005","Mutton Pepper Fry","Lunch and Dinner","Non-Vegeterian","mutton"," spices"," lemon",5
+"U1005","Chicken RR","Lunch and Dinner","Non-Vegeterian","chicken"," pasta"," sauce",2
+"U1005","Veg Manchurian","Lunch and Dinner","Vegetarian","vegetables"," corn flour"," sauce",3
+"U1005","Chicken Pizza","Lunch and Dinner","Non-Vegeterian","chicken"," pizza"," cheese",3
+"U1005","Mutton Seekh Kabab","Lunch and Dinner","Non-Vegeterian","mutton"," spices"," egg",3
+"U1005","Mixed Non-Veg Fried Rice","Lunch and Dinner","Non-Vegeterian","rice"," vegetables"," egg",4
+"U1120","Chicken Pulao","Lunch and Dinner","Non-Vegeterian","rice"," chicken",NULL,3
+"U1120","Chicken Tandoori","Lunch and Dinner","Non-Vegeterian","chicken"," spices"," lemon",2
+"U1120","Mutton Seekh Kabab","Lunch and Dinner","Non-Vegeterian","mutton"," spices"," egg",4
+"U1120","Aloo Gobi Masala","Lunch and Dinner","Vegetarian","vegetables"," spices"," potato",3
+"U1120","Chicken Drum Sticks","Lunch and Dinner","Non-Vegeterian","chicken"," butter"," flour",4
+"U1004","Malai Kulfi","Lunch and Dinner","Vegetarian","sweet"," milk"," cream",3
+"U1004","Paneer Achari","Lunch and Dinner","Vegetarian","paneer","yogurt","vegetables",3
+"U1004","Veg Cutlet","Lunch and Dinner","Vegetarian","vegetables"," bread",NULL,4
+"U1120","Lemon Chicken","Lunch and Dinner","Non-Vegeterian","chicken"," lemon"," spices",1
+"U1004","Mutton Kofte","Lunch and Dinner","Non-Vegeterian","mutton"," yogurt"," spices",3
+"U1120","Prawns Fry","Lunch and Dinner","Non-Vegeterian","fish"," prawns"," yogurt",3
+"U1004","Prawns Manchurian","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",1
+"U1120","Hyderabadi Keema","Lunch and Dinner","Non-Vegeterian","mutton"," spices",NULL,5
+"U1077","Mutton Fry","Lunch and Dinner","Non-Vegeterian","mutton"," spices",NULL,4
+"U1120","Corn Cheese Pizza","Lunch and Dinner","Vegetarian","corn"," pizza"," cheese",1
+"U1037","Mutton Awadhi Kabab","Lunch and Dinner","Non-Vegeterian","mutton"," papaya"," spices",4
+"U1037","Ginger Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," spices"," pepper",3
+"U1037","Fish tikka","Lunch and Dinner","Non-Vegeterian","fish"," yogurt"," spices",4
+"U1037","Chicken Seekh Kabab","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," spices",4
+"U1037","Prawns Manchurian","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",2
+"U1037","Farm Fresh Pizza","Lunch and Dinner","Vegetarian","pizza"," vegetables"," cheese",4
+"U1037","Malvani Chicken Curry","Lunch and Dinner","Non-Vegeterian","chicken"," coconut"," spices",2
+"U1035","Dal Tadka","Lunch and Dinner","Vegetarian","pulses",NULL,NULL,5
+"U1035","Chicken Korma","Lunch and Dinner","Non-Vegeterian","chicken"," coconut milk"," spices",5
+"U1035","Apollo Fish","Lunch and Dinner","Non-Vegeterian","fish"," corn flour"," sauce",1
+"U1052","Chicken Korma","Lunch and Dinner","Non-Vegeterian","chicken"," coconut milk"," spices",5
+"U1036","Mushroom Tikka","Lunch and Dinner","Vegetarian","mushroom"," yogurt"," spices",2
+"U1036","Moong daal Halwa","Lunch and Dinner","Vegetarian","sweet"," dal"," ghee",2
+"U1036","Kadaai Paneer","Lunch and Dinner","Vegetarian","paneer"," vegetables"," spices",4
+"U1036","Fish Fry","Lunch and Dinner","Non-Vegeterian","fish"," spices"," lemon",5
+"U1036","Matar Pulao","Lunch and Dinner","Vegetarian","rice",NULL,NULL,5
+"U1036","Seekh Kabab","Lunch and Dinner","Non-Vegeterian","mutton"," yogurt"," spices",1
+"U1036","Chicken Achari","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," spices",3
+"U1036","Fish Fry","Lunch and Dinner","Non-Vegeterian","fish"," spices"," lemon",3
+"U1036","Chicken 65","Lunch and Dinner","Non-Vegeterian","chicken"," rice flour"," spices",2
+"U1036","Kesariya Kheer","Lunch and Dinner","Vegetarian","sweet"," rice"," milk",4
+"U1036","Chicken Pizza","Lunch and Dinner","Non-Vegeterian","chicken"," pizza"," cheese",5
+"U1036","Prawns Manchurian","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",1
+"U1038","Veg Manchurian","Lunch and Dinner","Vegetarian","vegetables"," corn flour"," sauce",4
+"U1038","Tandoori Fish","Lunch and Dinner","Non-Vegeterian","fish"," yogurt"," spices",4
+"U1038","Jeera Rice","Lunch and Dinner","Vegetarian","rice",NULL,NULL,2
+"U1038","Malvani Chicken Curry","Lunch and Dinner","Non-Vegeterian","chicken"," coconut"," spices",2
+"U1038","Plain Roti","Lunch and Dinner","Vegetarian","flour"," water",NULL,2
+"U1071","Mix Veg Curry","Lunch and Dinner","Vegetarian","vegetables"," spices",NULL,2
+"U1071","Veg Spring Rolls","Lunch and Dinner","Vegetarian","vegetables"," flour"," flour",5
+"U1071","Chilli Fish","Lunch and Dinner","Non-Vegeterian","fish"," corn flour"," sauce",4
+"U1071","Apollo Fish","Lunch and Dinner","Non-Vegeterian","fish"," corn flour"," sauce",5
+"U1071","Mango Kuzhambu","Lunch and Dinner","Vegetarian","mango",NULL,NULL,4
+"U1071","Mutton Cutlet","Lunch and Dinner","Non-Vegeterian","mutton"," spices"," potato",4
+"U1071","Mushroom Masala","Lunch and Dinner","Vegetarian","mushroom"," spices",NULL,3
+"U1071","Fruit cream","Lunch and Dinner","Vegetarian","sweet"," fruits"," cream",5
+"U1071","Chocolate Milkshake","Lunch and Dinner","Vegetarian","milk"," chocolate"," sweet",4
+"U1071","Plain Naan","Lunch and Dinner","Vegetarian","flour",NULL,NULL,1
+"U1071","Paneer Butter Masala","Lunch and Dinner","Vegetarian","paneer"," spices"," cream",5
+"U1071","Loose Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," spices",2
+"U1071","Veg Platter","Lunch and Dinner","Vegetarian","vegetables"," yogurt"," lemon",5
+"U1114","Pepper Mutton","Lunch and Dinner","Non-Vegeterian","mutton"," spices"," lemon",4
+"U1084","Bendekaayi Gojju (Ladys Finger Gravy)","Lunch and Dinner","Vegetarian","lady finger"," coconut"," pulses",3
+"U1084","Paneer 65","Lunch and Dinner","Vegetarian","paneer"," rice flour"," spices",3
+"U1084","Chicken RR","Lunch and Dinner","Non-Vegeterian","chicken"," pasta"," sauce",4
+"U1084","Chicken Drum Sticks","Lunch and Dinner","Non-Vegeterian","chicken"," butter"," flour",3
+"U1084","Mughlai Chicken Handi","Lunch and Dinner","Non-Vegeterian","chicken"," spices"," ghee",2
+"U1084","Chicken Dum Biryani","Lunch and Dinner","Non-Vegeterian","rice"," chicken",NULL,5
+"U1084","Plain Dosa","Lunch and Dinner","Vegetarian","black gram"," rice",NULL,3
+"U1084","Butter Chicken","Lunch and Dinner","Non-Vegeterian","chicken"," spices"," butter",3
+"U1084","Paneer Amritsari Tikka","Lunch and Dinner","Vegetarian","paneer"," lemon"," spices",4
+"U1084","Paneer Tikka","Lunch and Dinner","Vegetarian","paneer","yogurt","vegetables",2
+"U1049","Haryali Paneer Tikka","Lunch and Dinner","Vegetarian","paneer","yogurt"," spices",2
+"U1049","Chilli Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",2
+"U1019","Lassi","Lunch and Dinner","Vegetarian","milk"," sweet"," curd",3
+"U1019","Ginger Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," spices"," pepper",1
+"U1019","Plain Roti","Lunch and Dinner","Vegetarian","flour"," water",NULL,5
+"U1019","Veg biryani","Lunch and Dinner","Vegetarian","rice"," vegetables",NULL,2
+"U1069","Plain Naan","Lunch and Dinner","Vegetarian","flour",NULL,NULL,1
+"U1069","Lacha Paratha","Lunch and Dinner","Vegetarian","flour"," ghee",NULL,5
+"U1069","Butter Garlic Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",2
+"U1069","Chilli Chicken","Lunch and Dinner","Non-Vegeterian","chicken"," sauce"," corn flour",4
+"U1069","Vanilla Milkshake","Lunch and Dinner","Vegetarian","milk"," vanilla"," sweet",5
+"U1069","Chicken RR","Lunch and Dinner","Non-Vegeterian","chicken"," pasta"," sauce",3
+"U1069","Chicken Drum Sticks","Lunch and Dinner","Non-Vegeterian","chicken"," butter"," flour",4
+"U1069","Plain Roti","Lunch and Dinner","Vegetarian","flour"," water",NULL,2
+"U1069","Mughlai Chicken Handi","Lunch and Dinner","Non-Vegeterian","chicken"," spices"," ghee",4
+"U1113","Crispy Corn","Lunch and Dinner","Vegetarian","corn"," corn flour"," spices",5
+"U1113","Garlic Naan","Lunch and Dinner","Vegetarian","flour"," garlic",NULL,1
+"U1113","Chicken Madagascar","Lunch and Dinner","Non-Vegeterian","chicken"," coconut milk"," spices",1
+"U1113","Tandoori Fish","Lunch and Dinner","Non-Vegeterian","fish"," yogurt"," spices",4
+"U1113","Chicken RR","Lunch and Dinner","Non-Vegeterian","chicken"," pasta"," sauce",3
+"U1113","Chicken Malai","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," spices",2
+"U1113","Chicken Dum Biryani","Lunch and Dinner","Non-Vegeterian","rice"," chicken",NULL,2
+"U1113","Veg Dum Biryani","Lunch and Dinner","Vegetarian","rice"," vegetables",NULL,5
+"U1104","Chocolate Milkshake","Lunch and Dinner","Vegetarian","milk"," chocolate"," sweet",2
+"U1104","Paneer Amritsari Tikka","Lunch and Dinner","Vegetarian","paneer"," lemon"," spices",3
+"U1104","Shahi Tukda","Lunch and Dinner","Vegetarian","sweet"," milk"," bread",1
+"U1104","Fruit cream","Lunch and Dinner","Vegetarian","sweet"," fruits"," cream",4
+"U1104","Prawns Manchurian","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",5
+"U1106","Paneer Amritsari Tikka","Lunch and Dinner","Vegetarian","paneer"," lemon"," spices",2
+"U1106","Pepper Garlic Chicken","Lunch and Dinner","Non-Vegeterian","chicken"," spices"," vegetables ",5
+"U1104","Paneer Tikka","Lunch and Dinner","Vegetarian","paneer","yogurt","vegetables",3
+"U1106","Chocolate Milkshake","Lunch and Dinner","Vegetarian","milk"," chocolate"," sweet",4
+"U1106","Mix Veg Curry","Lunch and Dinner","Vegetarian","vegetables"," spices",NULL,3
+"U1104","Ice-cream","Lunch and Dinner","Vegetarian","sweet"," milk",NULL,1
+"U1106","Mix-Veg Fried Rice","Lunch and Dinner","Vegetarian","rice"," vegetables",NULL,5
+"U1104","Barbeque Chicken with Breast","Lunch and Dinner","Non-Vegeterian","chicken"," spices",NULL,5
+"U1104","Mango Kuzhambu","Lunch and Dinner","Vegetarian","mango",NULL,NULL,3
+"U1106","Chicken Pulao","Lunch and Dinner","Non-Vegeterian","rice"," chicken",NULL,1
+"U1104","Mutton 65","Lunch and Dinner","Non-Vegeterian","mutton"," rice flour"," spices",3
+"U1106","Arachu Vitta Sambar","Lunch and Dinner","Vegetarian","vegetables"," dal"," sambar powder ",3
+"U1106","Fish Manchurian","Lunch and Dinner","Non-Vegeterian","fish"," corn flour"," sauce",1
+"U1052","Paneer 65","Lunch and Dinner","Vegetarian","paneer"," rice flour"," spices",1
+"U1106","Mushroom Malai Tikka","Lunch and Dinner","Vegetarian","mushroom"," cream"," spices",2
+"U1106","Fruit cream","Lunch and Dinner","Vegetarian","sweet"," fruits"," cream",2
+"U1104","Fish Fry","Lunch and Dinner","Non-Vegeterian","fish"," spices"," lemon",2
+"U1106","Veg Pakora","Lunch and Dinner","Vegetarian","vegetables"," flour ",NULL,1
+"U1106","Chicken Pulao","Lunch and Dinner","Non-Vegeterian","rice"," chicken",NULL,3
+"U1106","Chocolate Brownie","Lunch and Dinner","Vegetarian","sweet"," chocolate"," milk",1
+"U1106","Jeera Rice","Lunch and Dinner","Vegetarian","rice",NULL,NULL,5
+"U1106","Mutton 65 Pizza","Lunch and Dinner","Non-Vegeterian","mutton"," pizza"," cheese",1
+"U1052","Chicken Manchurian","Lunch and Dinner","Non-Vegeterian","chicken"," sauce"," corn flour",4
+"U1052","Matar Pulao","Lunch and Dinner","Vegetarian","rice",NULL,NULL,5
+"U1104","Lemon Rice","Lunch and Dinner","Vegetarian","rice"," lemon",NULL,2
+"U1079","Avial with Kerala Red Rice","Lunch and Dinner","Vegetarian","rice"," vegetables",NULL,3
+"U1079","Chicken Achari","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," spices",2
+"U1079","Gobi Manchurian","Lunch and Dinner","Vegetarian","corn flour"," vegetables"," sauce",3
+"U1079","Butter Naan","Lunch and Dinner","Vegetarian","flour"," butter",NULL,4
+"U1045","Mushroom Malai Tikka","Lunch and Dinner","Vegetarian","mushroom"," cream"," spices",4
+"U1045","Paneer Tikka","Lunch and Dinner","Vegetarian","paneer","yogurt","vegetables",1
+"U1045","Mutton Awadhi Kabab","Lunch and Dinner","Non-Vegeterian","mutton"," papaya"," spices",2
+"U1045","Paneer Butter Masala","Lunch and Dinner","Vegetarian","paneer"," spices"," cream",3
+"U1045","Matar Pulao","Lunch and Dinner","Vegetarian","rice",NULL,NULL,2
+"U1045","Pepper Mutton","Lunch and Dinner","Non-Vegeterian","mutton"," spices"," lemon",4
+"U1045","Chicken Fry","Lunch and Dinner","Non-Vegeterian","chicken"," egg"," flour",5
+"U1045","Murgh Lasooni Kabab","Lunch and Dinner","Non-Vegeterian","chicken"," cream"," spices",2
+"U1045","Mutton RR","Lunch and Dinner","Non-Vegeterian","mutton"," pasta"," sauce",3
+"U1045","Mutton Fry","Lunch and Dinner","Non-Vegeterian","mutton"," spices",NULL,2
+"U1009","Chicken Pizza","Lunch and Dinner","Non-Vegeterian","chicken"," pizza"," cheese",5
+"U1009","Baby Corn","Lunch and Dinner","Vegetarian","corn"," corn flour"," sauce",5
+"U1009","Ginger Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," spices"," pepper",3
+"U1009","Ice Tea","Lunch and Dinner","Vegetarian","tea"," sweet"," lemon",4
+"U1009","Chicken Korma","Lunch and Dinner","Non-Vegeterian","chicken"," coconut milk"," spices",2
+"U1009","Paneer Multani Tikka","Lunch and Dinner","Vegetarian","paneer","cheese","mushroom",5
+"U1009","Paneer Tikka Masala","Lunch and Dinner","Vegetarian","paneer"," spices"," lemon",5
+"U1009","Ice Tea","Lunch and Dinner","Vegetarian","tea"," sweet"," lemon",5
+"U1009","Veg Cutlet","Lunch and Dinner","Vegetarian","vegetables"," bread",NULL,3
+"U1009","Veg Dumplings","Lunch and Dinner","Vegetarian","flour"," vegetables",NULL,2
+"U1009","Butter Naan","Lunch and Dinner","Vegetarian","flour"," butter",NULL,5
+"U1016","Gulab Jamun","Lunch and Dinner","Vegetarian","sweet"," milk"," ghee",3
+"U1016","Jeera Rice","Lunch and Dinner","Vegetarian","rice",NULL,NULL,2
+"U1016","Bendekaayi Gojju (Ladys Finger Gravy)","Lunch and Dinner","Vegetarian","lady finger"," coconut"," pulses",2
+"U1016","Matar Pulao","Lunch and Dinner","Vegetarian","rice",NULL,NULL,2
+"U1016","Veg Platter","Lunch and Dinner","Vegetarian","vegetables"," yogurt"," lemon",4
+"U1016","Lemon Rice","Lunch and Dinner","Vegetarian","rice"," lemon",NULL,3
+"U1016","Golden Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",2
+"U1016","Fruit cream","Lunch and Dinner","Vegetarian","sweet"," fruits"," cream",1
+"U1016","Crispy Corn","Lunch and Dinner","Vegetarian","corn"," corn flour"," spices",4
+"U1016","Mutton Pepper Fry","Lunch and Dinner","Non-Vegeterian","mutton"," spices"," lemon",5
+"U1016","Hara Bara Kabab","Lunch and Dinner","Vegetarian","vegetables"," flour"," bread",3
+"U1016","Chicken Majestic","Lunch and Dinner","Non-Vegeterian","chicken"," butter"," flour",2
+"U1016","Fish tikka","Lunch and Dinner","Non-Vegeterian","fish"," yogurt"," spices",5
+"U1047","Mixed Non-Veg Fried Rice","Lunch and Dinner","Non-Vegeterian","rice"," vegetables"," egg",4
+"U1047","Shahi Tukda","Lunch and Dinner","Vegetarian","sweet"," milk"," bread",4
+"U1047","Paneer 65","Lunch and Dinner","Vegetarian","paneer"," rice flour"," spices",5
+"U1095","Mughlai Chicken Handi","Lunch and Dinner","Non-Vegeterian","chicken"," spices"," ghee",3
+"U1095","Butter Garlic Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",3
+"U1095","Chicken Fried Rice","Lunch and Dinner","Non-Vegeterian","rice"," chicken",NULL,5
+"U1034","Lacha Paratha","Lunch and Dinner","Vegetarian","flour"," ghee",NULL,1
+"U1095","Mutton Awadhi Kabab","Lunch and Dinner","Non-Vegeterian","mutton"," papaya"," spices",1
+"U1034","Mixed Non-Veg Fried Rice","Lunch and Dinner","Non-Vegeterian","rice"," vegetables"," egg",5
+"U1034","Gulab Jamun","Lunch and Dinner","Vegetarian","sweet"," milk"," ghee",4
+"U1095","Chicken Pakora","Lunch and Dinner","Non-Vegeterian","chicken"," rice flour"," spices",4
+"U1095","Ginger Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," spices"," pepper",1
+"U1095","Chocolate Milkshake","Lunch and Dinner","Vegetarian","milk"," chocolate"," sweet",5
+"U1007","Shahi Tukda","Lunch and Dinner","Vegetarian","sweet"," milk"," bread",4
+"U1007","Gobi Manchurian","Lunch and Dinner","Vegetarian","corn flour"," vegetables"," sauce",1
+"U1095","Kadaai Paneer","Lunch and Dinner","Vegetarian","paneer"," vegetables"," spices",1
+"U1095","Veg Dumplings","Lunch and Dinner","Vegetarian","flour"," vegetables",NULL,2
+"U1095","Pepper Mutton","Lunch and Dinner","Non-Vegeterian","mutton"," spices"," lemon",1
+"U1007","Gobi Manchurian","Lunch and Dinner","Vegetarian","corn flour"," vegetables"," sauce",2
+"U1007","Golden Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",1
+"U1007","Mutton 65 Pizza","Lunch and Dinner","Non-Vegeterian","mutton"," pizza"," cheese",5
+"U1007","Lemon Rice","Lunch and Dinner","Vegetarian","rice"," lemon",NULL,5
+"U1007","Chilli Fish","Lunch and Dinner","Non-Vegeterian","fish"," corn flour"," sauce",2
+"U1078","Chocolate Milkshake","Lunch and Dinner","Vegetarian","milk"," chocolate"," sweet",3
+"U1099","Butter Roti","Lunch and Dinner","Vegetarian","flour"," butter",NULL,1
+"U1099","Cashew Chicken","Lunch and Dinner","Non-Vegeterian","chicken"," cashew"," sauce",2
+"U1008","Lacha Paratha","Lunch and Dinner","Vegetarian","flour"," ghee",NULL,2
+"U1008","Paneer 65","Lunch and Dinner","Vegetarian","paneer"," rice flour"," spices",1
+"U1099","Mutton 65","Lunch and Dinner","Non-Vegeterian","mutton"," rice flour"," spices",1
+"U1099","Veg Pulao","Lunch and Dinner","Vegetarian","rice"," vegetables",NULL,1
+"U1008","Butter Garlic Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",3
+"U1099","Mughlai Chicken Handi","Lunch and Dinner","Non-Vegeterian","chicken"," spices"," ghee",5
+"U1008","Mango Kuzhambu","Lunch and Dinner","Vegetarian","mango",NULL,NULL,1
+"U1008","Barbeque Chicken with Breast","Lunch and Dinner","Non-Vegeterian","chicken"," spices",NULL,3
+"U1099","Veg Cutlet","Lunch and Dinner","Vegetarian","vegetables"," bread",NULL,5
+"U1008","Farm Fresh Pizza","Lunch and Dinner","Vegetarian","pizza"," vegetables"," cheese",3
+"U1099","Chicken Tandoori","Lunch and Dinner","Non-Vegeterian","chicken"," spices"," lemon",1
+"U1008","Bendekaayi Gojju (Ladys Finger Gravy)","Lunch and Dinner","Vegetarian","lady finger"," coconut"," pulses",2
+"U1099","Moong daal Halwa","Lunch and Dinner","Vegetarian","sweet"," dal"," ghee",1
+"U1099","Chilli Potatoes","Lunch and Dinner","Vegetarian","potato"," sauce"," cornflour",3
+"U1099","Chicken Chettinad","Lunch and Dinner","Non-Vegeterian","chicken"," spices",NULL,4
+"U1008","Mutton 65 Pizza","Lunch and Dinner","Non-Vegeterian","mutton"," pizza"," cheese",5
+"U1008","Veg Dum Biryani","Lunch and Dinner","Vegetarian","rice"," vegetables",NULL,2
+"U1099","Lemon Rice","Lunch and Dinner","Vegetarian","rice"," lemon",NULL,5
+"U1040","Paneer Amritsari Tikka","Lunch and Dinner","Vegetarian","paneer"," lemon"," spices",4
+"U1040","Pepper Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," spices"," pepper",5
+"U1040","Golden Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",4
+"U1040","Murgh Tangdi Kabab","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," lemon",2
+"U1121","Fish tikka","Lunch and Dinner","Non-Vegeterian","fish"," yogurt"," spices",4
+"U1110","Mango Kuzhambu","Lunch and Dinner","Vegetarian","mango",NULL,NULL,2
+"U1110","Mix-Veg Fried Rice","Lunch and Dinner","Vegetarian","rice"," vegetables",NULL,1
+"U1110","Bendekaayi Gojju (Ladys Finger Gravy)","Lunch and Dinner","Vegetarian","lady finger"," coconut"," pulses",1
+"U1110","Kadaai Paneer","Lunch and Dinner","Vegetarian","paneer"," vegetables"," spices",3
+"U1121","Lacha Paratha","Lunch and Dinner","Vegetarian","flour"," ghee",NULL,2
+"U1121","Paneer Amritsari Tikka","Lunch and Dinner","Vegetarian","paneer"," lemon"," spices",5
+"U1121","Chicken Pulao","Lunch and Dinner","Non-Vegeterian","rice"," chicken",NULL,2
+"U1042","Nihari Gosht","Lunch and Dinner","Non-Vegeterian","mutton"," spices"," yogurt",1
+"U1042","Mutton 65 Pizza","Lunch and Dinner","Non-Vegeterian","mutton"," pizza"," cheese",2
+"U1042","Loose Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," spices",2
+"U1013","Paneer Multani Tikka","Lunch and Dinner","Vegetarian","paneer","cheese","mushroom",5
+"U1013","Haryali Paneer Tikka","Lunch and Dinner","Vegetarian","paneer","yogurt"," spices",4
+"U1013","Chocolate Milkshake","Lunch and Dinner","Vegetarian","milk"," chocolate"," sweet",4
+"U1013","Chilli Chicken","Lunch and Dinner","Non-Vegeterian","chicken"," sauce"," corn flour",1
+"U1054","Mixed Non-Veg Fried Rice","Lunch and Dinner","Non-Vegeterian","rice"," vegetables"," egg",4
+"U1054","Chicken Kheema Balls Pizza","Lunch and Dinner","Non-Vegeterian","chicken"," pizza"," cheese",1
+"U1054","Loose Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," spices",5
+"U1054","Chicken 65","Lunch and Dinner","Non-Vegeterian","chicken"," rice flour"," spices",3
+"U1054","Bendekaayi Gojju (Ladys Finger Gravy)","Lunch and Dinner","Vegetarian","lady finger"," coconut"," pulses",3
+"U1054","Mixed Non-Veg Fried Rice","Lunch and Dinner","Non-Vegeterian","rice"," vegetables"," egg",2
+"U1054","Butter Chicken","Lunch and Dinner","Non-Vegeterian","chicken"," spices"," butter",3
+"U1054","Veg Dumplings","Lunch and Dinner","Vegetarian","flour"," vegetables",NULL,4
+"U1054","Paneer Pulao","Lunch and Dinner","Vegetarian","rice"," paneer",NULL,2
+"U1054","Chicken Korma","Lunch and Dinner","Non-Vegeterian","chicken"," coconut milk"," spices",3
+"U1054","Prawns Fry","Lunch and Dinner","Non-Vegeterian","fish"," prawns"," yogurt",2
+"U1042","Prawns Biryani","Lunch and Dinner","Non-Vegeterian","rice"," prawns",NULL,4
+"U1042","Arachu Vitta Sambar","Lunch and Dinner","Vegetarian","vegetables"," dal"," sambar powder ",3
+"U1111","Pepper Mutton","Lunch and Dinner","Non-Vegeterian","mutton"," spices"," lemon",1
+"U1111","Paneer Multani Tikka","Lunch and Dinner","Vegetarian","paneer","cheese","mushroom",3
+"U1111","Chilli Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",5
+"U1111","Chicken Madagascar","Lunch and Dinner","Non-Vegeterian","chicken"," coconut milk"," spices",2
+"U1111","Chicken RR","Lunch and Dinner","Non-Vegeterian","chicken"," pasta"," sauce",3
+"U1037","Virgin Mojito","Lunch and Dinner","Vegetarian","soda"," lemon",NULL,3
+"U1111","Mutton Pepper Fry","Lunch and Dinner","Non-Vegeterian","mutton"," spices"," lemon",5
+"U1111","Chilli Mushroom","Lunch and Dinner","Vegetarian","mushroom"," corn flour"," sauce",5
+"U1111","Chocolate Pastry","Lunch and Dinner","Vegetarian","sweet"," chocolate"," milk",1
+"U1037","Shahi Tukda","Lunch and Dinner","Vegetarian","sweet"," milk"," bread",5
+"U1111","Mushroom Malai Tikka","Lunch and Dinner","Vegetarian","mushroom"," cream"," spices",4
+"U1037","Loose Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," spices",2
+"U1111","Paneer 65","Lunch and Dinner","Vegetarian","paneer"," rice flour"," spices",5
+"U1111","Ginger Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," spices"," pepper",1
+"U1037","Cashew Chicken","Lunch and Dinner","Non-Vegeterian","chicken"," cashew"," sauce",2
+"U1015","Fruit cream","Lunch and Dinner","Vegetarian","sweet"," fruits"," cream",1
+"U1015","Ginger Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," spices"," pepper",3
+"U1015","Prawns Manchurian","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",1
+"U1015","Garlic Naan","Lunch and Dinner","Vegetarian","flour"," garlic",NULL,1
+"U1015","Fruit cream","Lunch and Dinner","Vegetarian","sweet"," fruits"," cream",5
+"U1015","Chicken Fry","Lunch and Dinner","Non-Vegeterian","chicken"," egg"," flour",4
+"U1015","Chocolate Milkshake","Lunch and Dinner","Vegetarian","milk"," chocolate"," sweet",2
+"U1128","Crispy Corn","Lunch and Dinner","Vegetarian","corn"," corn flour"," spices",5
+"U1062","Veg Dumplings","Lunch and Dinner","Vegetarian","flour"," vegetables",NULL,1
+"U1101","Lacha Paratha","Lunch and Dinner","Vegetarian","flour"," ghee",NULL,3
+"U1101","Fresh Lime Soda","Lunch and Dinner","Vegetarian","lemon"," soda",NULL,2
+"U1101","Chilli Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",2
+"U1101","Chicken Tikka Dry","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," spices",5
+"U1101","Chicken Achari","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," spices",5
+"U1101","Mutton RR","Lunch and Dinner","Non-Vegeterian","mutton"," pasta"," sauce",2
+"U1101","Plain Roti","Lunch and Dinner","Vegetarian","flour"," water",NULL,4
+"U1101","Barbeque Chicken with Breast","Lunch and Dinner","Non-Vegeterian","chicken"," spices",NULL,4
+"U1101","Veg Dumplings","Lunch and Dinner","Vegetarian","flour"," vegetables",NULL,3
+"U1101","Ice Tea","Lunch and Dinner","Vegetarian","tea"," sweet"," lemon",4
+"U1001","Chilli Mushroom","Lunch and Dinner","Vegetarian","mushroom"," corn flour"," sauce",4
+"U1001","Golden Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",2
+"U1001","Fresh Lime Soda","Lunch and Dinner","Vegetarian","lemon"," soda",NULL,2
+"U1001","Chicken Achari","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," spices",5
+"U1001","Chocolate Pastry","Lunch and Dinner","Vegetarian","sweet"," chocolate"," milk",1
+"U1001","Chicken Korma","Lunch and Dinner","Non-Vegeterian","chicken"," coconut milk"," spices",5
+"U1001","Lassi","Lunch and Dinner","Vegetarian","milk"," sweet"," curd",4
+"U1135","Mutton Seekh Kabab","Lunch and Dinner","Non-Vegeterian","mutton"," spices"," egg",4
+"U1135","Seekh Kabab","Lunch and Dinner","Non-Vegeterian","mutton"," yogurt"," spices",1
+"U1135","Chilli Mushroom","Lunch and Dinner","Vegetarian","mushroom"," corn flour"," sauce",5
+"U1135","Plain Dosa","Lunch and Dinner","Vegetarian","black gram"," rice",NULL,1
+"U1032","Aloo Gobi Masala","Lunch and Dinner","Vegetarian","vegetables"," spices"," potato",5
+"U1032","Malai Kulfi","Lunch and Dinner","Vegetarian","sweet"," milk"," cream",3
+"U1032","Gulab Jamun","Lunch and Dinner","Vegetarian","sweet"," milk"," ghee",2
+"U1032","South Indian Chicken masala","Lunch and Dinner","Non-Vegeterian","chicken"," coconut mik "," spices",4
+"U1032","Mutton Fry","Lunch and Dinner","Non-Vegeterian","mutton"," spices",NULL,5
+"U1032","Loose Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," spices",3
+"U1135","Mixed Non-Veg Fried Rice","Lunch and Dinner","Non-Vegeterian","rice"," vegetables"," egg",3
+"U1135","Mutton Biryani","Lunch and Dinner","Non-Vegeterian","rice"," mutton",NULL,3
+"U1032","Mutton Kofte","Lunch and Dinner","Non-Vegeterian","mutton"," yogurt"," spices",3
+"U1032","Shahi Tukda","Lunch and Dinner","Vegetarian","sweet"," milk"," bread",5
+"U1032","Haryali Paneer Tikka","Lunch and Dinner","Vegetarian","paneer","yogurt"," spices",2
+"U1135","Veg Pulao","Lunch and Dinner","Vegetarian","rice"," vegetables",NULL,4
+"U1032","Chilli Chicken","Lunch and Dinner","Non-Vegeterian","chicken"," sauce"," corn flour",4
+"U1135","Vanilla Milkshake","Lunch and Dinner","Vegetarian","milk"," vanilla"," sweet",2
+"U1135","Mushroom Malai Tikka","Lunch and Dinner","Vegetarian","mushroom"," cream"," spices",5
+"U1135","Veg Pulao","Lunch and Dinner","Vegetarian","rice"," vegetables",NULL,5
+"U1135","Chilli Chicken","Lunch and Dinner","Non-Vegeterian","chicken"," sauce"," corn flour",1
+"U1135","Mix Veg Curry","Lunch and Dinner","Vegetarian","vegetables"," spices",NULL,1
+"U1135","Loose Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," spices",3
+"U1135","Avial with Kerala Red Rice","Lunch and Dinner","Vegetarian","rice"," vegetables",NULL,5
+"U1048","Chicken 65","Lunch and Dinner","Non-Vegeterian","chicken"," rice flour"," spices",5
+"U1048","Fish Biryani","Lunch and Dinner","Non-Vegeterian","fish"," rice",NULL,3
+"U1048","Fish Fry","Lunch and Dinner","Non-Vegeterian","fish"," spices"," lemon",4
+"U1048","Butter Naan","Lunch and Dinner","Vegetarian","flour"," butter",NULL,2
+"U1048","Jeera Rice","Lunch and Dinner","Vegetarian","rice",NULL,NULL,3
+"U1048","Shahi Tukda","Lunch and Dinner","Vegetarian","sweet"," milk"," bread",2
+"U1048","Corn Cheese Pizza","Lunch and Dinner","Vegetarian","corn"," pizza"," cheese",3
+"U1062","Pepper Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," spices"," pepper",5
+"U1062","Pepper Mutton","Lunch and Dinner","Non-Vegeterian","mutton"," spices"," lemon",3
+"U1092","Garlic Naan","Lunch and Dinner","Vegetarian","flour"," garlic",NULL,3
+"U1062","Mushroom Tikka","Lunch and Dinner","Vegetarian","mushroom"," yogurt"," spices",4
+"U1092","Prawns Fry","Lunch and Dinner","Non-Vegeterian","fish"," prawns"," yogurt",5
+"U1062","Veg Dumplings","Lunch and Dinner","Vegetarian","flour"," vegetables",NULL,5
+"U1092","Corn Cheese Pizza","Lunch and Dinner","Vegetarian","corn"," pizza"," cheese",2
+"U1062","Chicken Dum Biryani","Lunch and Dinner","Non-Vegeterian","rice"," chicken",NULL,2
+"U1092","Moong daal Halwa","Lunch and Dinner","Vegetarian","sweet"," dal"," ghee",1
+"U1062","Chicken RR","Lunch and Dinner","Non-Vegeterian","chicken"," pasta"," sauce",4
+"U1062","Ice-cream","Lunch and Dinner","Vegetarian","sweet"," milk",NULL,5
+"U1092","Dal Tadka","Lunch and Dinner","Vegetarian","pulses",NULL,NULL,4
+"U1062","Chicken Tikka Dry","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," spices",5
+"U1092","Mutton 65 Pizza","Lunch and Dinner","Non-Vegeterian","mutton"," pizza"," cheese",5
+"U1051","Murgh Tangdi Kabab","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," lemon",2
+"U1013","Haryali Paneer Tikka","Lunch and Dinner","Vegetarian","paneer","yogurt"," spices",1
+"U1085","Paneer Achari","Lunch and Dinner","Vegetarian","paneer","yogurt","vegetables",4
+"U1085","Chilli Chicken","Lunch and Dinner","Non-Vegeterian","chicken"," sauce"," corn flour",3
+"U1085","Pepper Garlic Chicken","Lunch and Dinner","Non-Vegeterian","chicken"," spices"," vegetables ",3
+"U1085","Plain Naan","Lunch and Dinner","Vegetarian","flour",NULL,NULL,3
+"U1085","Matar Pulao","Lunch and Dinner","Vegetarian","rice",NULL,NULL,1
+"U1109","Vanilla Milkshake","Lunch and Dinner","Vegetarian","milk"," vanilla"," sweet",3
+"U1109","Hyderabadi Keema","Lunch and Dinner","Non-Vegeterian","mutton"," spices",NULL,5
+"U1085","Veg Dum Biryani","Lunch and Dinner","Vegetarian","rice"," vegetables",NULL,2
+"U1085","Golden Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",3
+"U1109","South Indian Chicken masala","Lunch and Dinner","Non-Vegeterian","chicken"," coconut mik "," spices",3
+"U1085","Chocolate Milkshake","Lunch and Dinner","Vegetarian","milk"," chocolate"," sweet",4
+"U1085","Paneer Pulao","Lunch and Dinner","Vegetarian","rice"," paneer",NULL,1
+"U1109","Murgh Tangdi Kabab","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," lemon",2
+"U1085","Crispy Corn","Lunch and Dinner","Vegetarian","corn"," corn flour"," spices",1
+"U1109","Malai Kulfi","Lunch and Dinner","Vegetarian","sweet"," milk"," cream",5
+"U1109","Chicken Madagascar","Lunch and Dinner","Non-Vegeterian","chicken"," coconut milk"," spices",1
+"U1109","Golden Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",5
+"U1109","Mutton Awadhi Kabab","Lunch and Dinner","Non-Vegeterian","mutton"," papaya"," spices",1
+"U1109","Baby Corn","Lunch and Dinner","Vegetarian","corn"," corn flour"," sauce",5
+"U1109","Veg biryani","Lunch and Dinner","Vegetarian","rice"," vegetables",NULL,5
+"U1078","Prawns Biryani","Lunch and Dinner","Non-Vegeterian","rice"," prawns",NULL,5
+"U1078","Mango Kuzhambu","Lunch and Dinner","Vegetarian","mango",NULL,NULL,5
+"U1078","Butter Roti","Lunch and Dinner","Vegetarian","flour"," butter",NULL,3
+"U1078","Fruit cream","Lunch and Dinner","Vegetarian","sweet"," fruits"," cream",5
+"U1078","Butter Roti","Lunch and Dinner","Vegetarian","flour"," butter",NULL,1
+"U1078","Veg biryani","Lunch and Dinner","Vegetarian","rice"," vegetables",NULL,4
+"U1019","Veg biryani","Lunch and Dinner","Vegetarian","rice"," vegetables",NULL,1
+"U1102","Lemon Rice","Lunch and Dinner","Vegetarian","rice"," lemon",NULL,5
+"U1098","Chilli Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",2
+"U1098","Chilli Mushroom","Lunch and Dinner","Vegetarian","mushroom"," corn flour"," sauce",2
+"U1098","Veg Manchurian","Lunch and Dinner","Vegetarian","vegetables"," corn flour"," sauce",1
+"U1046","Mix Veg Curry","Lunch and Dinner","Vegetarian","vegetables"," spices",NULL,3
+"U1122","Jeera Rice","Lunch and Dinner","Vegetarian","rice",NULL,NULL,4
+"U1122","Chicken RR","Lunch and Dinner","Non-Vegeterian","chicken"," pasta"," sauce",5
+"U1122","Jeera Rice","Lunch and Dinner","Vegetarian","rice",NULL,NULL,3
+"U1122","Chicken Achari","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," spices",4
+"U1122","Mutton Dum Biryani","Lunch and Dinner","Non-Vegeterian","rice"," mutton",NULL,2
+"U1122","Mushroom Malai Tikka","Lunch and Dinner","Vegetarian","mushroom"," cream"," spices",5
+"U1122","Veg Spring Rolls","Lunch and Dinner","Vegetarian","vegetables"," flour"," flour",3
+"U1122","Prawns Fry","Lunch and Dinner","Non-Vegeterian","fish"," prawns"," yogurt",1
+"U1122","Chicken Tikka Dry","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," spices",2
+"U1122","Ice Tea","Lunch and Dinner","Vegetarian","tea"," sweet"," lemon",3
+"U1122","Avial with Kerala Red Rice","Lunch and Dinner","Vegetarian","rice"," vegetables",NULL,4
+"U1122","Prawns Fry","Lunch and Dinner","Non-Vegeterian","fish"," prawns"," yogurt",4
+"U1138","Chicken Seekh Kabab","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," spices",5
+"U1138","Mutton 65","Lunch and Dinner","Non-Vegeterian","mutton"," rice flour"," spices",5
+"U1138","Mughlai Chicken Handi","Lunch and Dinner","Non-Vegeterian","chicken"," spices"," ghee",4
+"U1013","Chicken Majestic","Lunch and Dinner","Non-Vegeterian","chicken"," butter"," flour",4
+"U1098","Veg Manchurian","Lunch and Dinner","Vegetarian","vegetables"," corn flour"," sauce",2
+"U1098","Pepper Mutton","Lunch and Dinner","Non-Vegeterian","mutton"," spices"," lemon",3
+"U1098","Chicken Achari","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," spices",5
+"U1098","Gulab Jamun","Lunch and Dinner","Vegetarian","sweet"," milk"," ghee",4
+"U1098","Paneer Butter Masala","Lunch and Dinner","Vegetarian","paneer"," spices"," cream",1
+"U1098","Veg Platter","Lunch and Dinner","Vegetarian","vegetables"," yogurt"," lemon",5
+"U1098","Moong daal Halwa","Lunch and Dinner","Vegetarian","sweet"," dal"," ghee",4
+"U1098","Carrot Halwa","Lunch and Dinner","Vegetarian","sweet"," carrot"," ghee",2
+"U1098","Moong daal Halwa","Lunch and Dinner","Vegetarian","sweet"," dal"," ghee",5
+"U1034","Chicken Fried Rice","Lunch and Dinner","Non-Vegeterian","rice"," chicken",NULL,3
+"U1034","Bharwa Aloo","Lunch and Dinner","Vegetarian","potato"," cheese"," spices ",2
+"U1034","Veg Pulao","Lunch and Dinner","Vegetarian","rice"," vegetables",NULL,4
+"U1033","Veg Cutlet","Lunch and Dinner","Vegetarian","vegetables"," bread",NULL,5
+"U1033","Chicken Achari","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," spices",3
+"U1033","Nihari Gosht","Lunch and Dinner","Non-Vegeterian","mutton"," spices"," yogurt",1
+"U1033","Veg Dumplings","Lunch and Dinner","Vegetarian","flour"," vegetables",NULL,5
+"U1033","Kadaai Paneer","Lunch and Dinner","Vegetarian","paneer"," vegetables"," spices",2
+"U1033","Virgin Mojito","Lunch and Dinner","Vegetarian","soda"," lemon",NULL,2
+"U1033","Baby Corn","Lunch and Dinner","Vegetarian","corn"," corn flour"," sauce",1
+"U1033","Fish Biryani","Lunch and Dinner","Non-Vegeterian","fish"," rice",NULL,3
+"U1033","Bendekaayi Gojju (Ladys Finger Gravy)","Lunch and Dinner","Vegetarian","lady finger"," coconut"," pulses",3
+"U1033","Chicken Madagascar","Lunch and Dinner","Non-Vegeterian","chicken"," coconut milk"," spices",1
+"U1033","Murgh Tangdi Kabab","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," lemon",2
+"U1089","Chicken Madagascar","Lunch and Dinner","Non-Vegeterian","chicken"," coconut milk"," spices",4
+"U1089","Lemon Chicken","Lunch and Dinner","Non-Vegeterian","chicken"," lemon"," spices",5
+"U1089","Chicken Dum Biryani","Lunch and Dinner","Non-Vegeterian","rice"," chicken",NULL,2
+"U1089","Nihari Gosht","Lunch and Dinner","Non-Vegeterian","mutton"," spices"," yogurt",1
+"U1003","Chicken Chettinad","Lunch and Dinner","Non-Vegeterian","chicken"," spices",NULL,1
+"U1089","Mix Veg Curry","Lunch and Dinner","Vegetarian","vegetables"," spices",NULL,4
+"U1003","Chicken Drum Sticks","Lunch and Dinner","Non-Vegeterian","chicken"," butter"," flour",2
+"U1089","Bharwa Aloo","Lunch and Dinner","Vegetarian","potato"," cheese"," spices ",1
+"U1003","Corn Cheese Pizza","Lunch and Dinner","Vegetarian","corn"," pizza"," cheese",3
+"U1089","Veg Kofta","Lunch and Dinner","Vegetarian","vegetables"," flour"," spices",3
+"U1003","Chilli Chicken","Lunch and Dinner","Non-Vegeterian","chicken"," sauce"," corn flour",5
+"U1089","Chocolate Milkshake","Lunch and Dinner","Vegetarian","milk"," chocolate"," sweet",3
+"U1089","Plain Naan","Lunch and Dinner","Vegetarian","flour",NULL,NULL,2
+"U1003","Mutton Fry","Lunch and Dinner","Non-Vegeterian","mutton"," spices",NULL,3
+"U1089","Vanilla Milkshake","Lunch and Dinner","Vegetarian","milk"," vanilla"," sweet",5
+"U1089","Prawns Manchurian","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",2
+"U1003","Veg Dum Biryani","Lunch and Dinner","Vegetarian","rice"," vegetables",NULL,3
+"U1089","Chicken Dum Biryani","Lunch and Dinner","Non-Vegeterian","rice"," chicken",NULL,1
+"U1089","Lemon Rice","Lunch and Dinner","Vegetarian","rice"," lemon",NULL,1
+"U1003","Ginger Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," spices"," pepper",1
+"U1091","Chicken Achari","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," spices",2
+"U1091","Tandoori Fish","Lunch and Dinner","Non-Vegeterian","fish"," yogurt"," spices",5
+"U1089","Cashew Chicken","Lunch and Dinner","Non-Vegeterian","chicken"," cashew"," sauce",2
+"U1003","Chilli Potatoes","Lunch and Dinner","Vegetarian","potato"," sauce"," cornflour",3
+"U1091","Pepper Garlic Chicken","Lunch and Dinner","Non-Vegeterian","chicken"," spices"," vegetables ",2
+"U1003","Chicken Achari","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," spices",5
+"U1091","Chicken Fried Rice","Lunch and Dinner","Non-Vegeterian","rice"," chicken",NULL,1
+"U1003","Arachu Vitta Sambar","Lunch and Dinner","Vegetarian","vegetables"," dal"," sambar powder ",1
+"U1091","Prawns Fry","Lunch and Dinner","Non-Vegeterian","fish"," prawns"," yogurt",4
+"U1003","Veg Pakora","Lunch and Dinner","Vegetarian","vegetables"," flour ",NULL,5
+"U1027","Mutton Pepper Fry","Lunch and Dinner","Non-Vegeterian","mutton"," spices"," lemon",2
+"U1091","Chicken Fry","Lunch and Dinner","Non-Vegeterian","chicken"," egg"," flour",3
+"U1027","Golden Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",2
+"U1091","Shahi Tukda","Lunch and Dinner","Vegetarian","sweet"," milk"," bread",4
+"U1027","Mushroom Masala","Lunch and Dinner","Vegetarian","mushroom"," spices",NULL,2
+"U1091","Fresh Lime Soda","Lunch and Dinner","Vegetarian","lemon"," soda",NULL,1
+"U1091","Aloo Gobi Masala","Lunch and Dinner","Vegetarian","vegetables"," spices"," potato",2
+"U1027","Mutton Fry","Lunch and Dinner","Non-Vegeterian","mutton"," spices",NULL,5
+"U1027","Mutton Awadhi Kabab","Lunch and Dinner","Non-Vegeterian","mutton"," papaya"," spices",3
+"U1027","Mutton RR","Lunch and Dinner","Non-Vegeterian","mutton"," pasta"," sauce",1
+"U1027","Mix-Veg Fried Rice","Lunch and Dinner","Vegetarian","rice"," vegetables",NULL,3
+"U1027","Paneer Multani Tikka","Lunch and Dinner","Vegetarian","paneer","cheese","mushroom",4
+"U1027","Mutton Seekh Kabab","Lunch and Dinner","Non-Vegeterian","mutton"," spices"," egg",5
+"U1027","Carrot Halwa","Lunch and Dinner","Vegetarian","sweet"," carrot"," ghee",2
+"U1027","Lacha Paratha","Lunch and Dinner","Vegetarian","flour"," ghee",NULL,3
+"U1029","Chicken Roast","Lunch and Dinner","Non-Vegeterian","chicken"," spices"," lemon",3
+"U1029","Veg Pulao","Lunch and Dinner","Vegetarian","rice"," vegetables",NULL,1
+"U1029","Lassi","Lunch and Dinner","Vegetarian","milk"," sweet"," curd",1
+"U1029","Fish Biryani","Lunch and Dinner","Non-Vegeterian","fish"," rice",NULL,2
+"U1029","Garlic Naan","Lunch and Dinner","Vegetarian","flour"," garlic",NULL,5
+"U1029","Chilli Chicken","Lunch and Dinner","Non-Vegeterian","chicken"," sauce"," corn flour",3
+"U1029","Arachu Vitta Sambar","Lunch and Dinner","Vegetarian","vegetables"," dal"," sambar powder ",3
+"U1029","Veg Dumplings","Lunch and Dinner","Vegetarian","flour"," vegetables",NULL,3
+"U1029","Fish Manchurian","Lunch and Dinner","Non-Vegeterian","fish"," corn flour"," sauce",4
+"U1029","Golden Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",4
+"U1086","Margarita Pizza","Lunch and Dinner","Vegetarian","pizza"," cheese",NULL,4
+"U1086","Mutton 65 Pizza","Lunch and Dinner","Non-Vegeterian","mutton"," pizza"," cheese",4
+"U1086","Chicken Pulao","Lunch and Dinner","Non-Vegeterian","rice"," chicken",NULL,2
+"U1086","Mushroom Malai Tikka","Lunch and Dinner","Vegetarian","mushroom"," cream"," spices",2
+"U1086","Chilli Potatoes","Lunch and Dinner","Vegetarian","potato"," sauce"," cornflour",1
+"U1086","Chicken Pepperoni Piza","Lunch and Dinner","Non-Vegeterian","chicken"," pizza"," cheese",4
+"U1086","Mutton 65 Pizza","Lunch and Dinner","Non-Vegeterian","mutton"," pizza"," cheese",2
+"U1086","Kadaai Paneer","Lunch and Dinner","Vegetarian","paneer"," vegetables"," spices",4
+"U1086","Garlic Naan","Lunch and Dinner","Vegetarian","flour"," garlic",NULL,1
+"U1019","Chicken Pizza","Lunch and Dinner","Non-Vegeterian","chicken"," pizza"," cheese",2
+"U1019","Cashew Chicken","Lunch and Dinner","Non-Vegeterian","chicken"," cashew"," sauce",3
+"U1137","Chicken Fried Rice","Lunch and Dinner","Non-Vegeterian","rice"," chicken",NULL,2
+"U1019","Mutton Seekh Kabab","Lunch and Dinner","Non-Vegeterian","mutton"," spices"," egg",2
+"U1019","Jeera Rice","Lunch and Dinner","Vegetarian","rice",NULL,NULL,4
+"U1137","Arachu Vitta Sambar","Lunch and Dinner","Vegetarian","vegetables"," dal"," sambar powder ",3
+"U1137","Tandoori Fish","Lunch and Dinner","Non-Vegeterian","fish"," yogurt"," spices",4
+"U1090","Chilli Chicken","Lunch and Dinner","Non-Vegeterian","chicken"," sauce"," corn flour",5
+"U1137","Veg Dum Biryani","Lunch and Dinner","Vegetarian","rice"," vegetables",NULL,5
+"U1137","Lassi","Lunch and Dinner","Vegetarian","milk"," sweet"," curd",5
+"U1137","Veg Platter","Lunch and Dinner","Vegetarian","vegetables"," yogurt"," lemon",3
+"U1137","Fish Fry","Lunch and Dinner","Non-Vegeterian","fish"," spices"," lemon",5
+"U1137","Gobi Manchurian","Lunch and Dinner","Vegetarian","corn flour"," vegetables"," sauce",1
+"U1137","Veg Dum Biryani","Lunch and Dinner","Vegetarian","rice"," vegetables",NULL,2
+"U1137","Butter Roti","Lunch and Dinner","Vegetarian","flour"," butter",NULL,3
+"U1137","Mutton Seekh Kabab","Lunch and Dinner","Non-Vegeterian","mutton"," spices"," egg",5
+"U1137","Bendekaayi Gojju (Ladys Finger Gravy)","Lunch and Dinner","Vegetarian","lady finger"," coconut"," pulses",5
+"U1137","Chilli Fish","Lunch and Dinner","Non-Vegeterian","fish"," corn flour"," sauce",4
+"U1137","Tandoori Fish","Lunch and Dinner","Non-Vegeterian","fish"," yogurt"," spices",2
+"U1114","Chilli Paneer","Lunch and Dinner","Vegetarian","paneer"," corn flour"," sauce",5
+"U1114","Chicken Korma","Lunch and Dinner","Non-Vegeterian","chicken"," coconut milk"," spices",3
+"U1114","Chicken Fry","Lunch and Dinner","Non-Vegeterian","chicken"," egg"," flour",5
+"U1114","Mutton Pepper Fry","Lunch and Dinner","Non-Vegeterian","mutton"," spices"," lemon",4
+"U1114","Garlic Naan","Lunch and Dinner","Vegetarian","flour"," garlic",NULL,3
+"U1114","Chicken Pepperoni Piza","Lunch and Dinner","Non-Vegeterian","chicken"," pizza"," cheese",4
+"U1114","Mutton Biryani","Lunch and Dinner","Non-Vegeterian","rice"," mutton",NULL,3
+"U1114","Carrot Halwa","Lunch and Dinner","Vegetarian","sweet"," carrot"," ghee",2
+"U1114","Malvani Chicken Curry","Lunch and Dinner","Non-Vegeterian","chicken"," coconut"," spices",2
+"U1114","South Indian Chicken masala","Lunch and Dinner","Non-Vegeterian","chicken"," coconut mik "," spices",2
+"U1061","Veg Spring Rolls","Lunch and Dinner","Vegetarian","vegetables"," flour"," flour",4
+"U1061","Nihari Gosht","Lunch and Dinner","Non-Vegeterian","mutton"," spices"," yogurt",4
+"U1061","Barbeque Chicken with Breast","Lunch and Dinner","Non-Vegeterian","chicken"," spices",NULL,2
+"U1061","Plain Dosa","Lunch and Dinner","Vegetarian","black gram"," rice",NULL,2
+"U1061","Malai Kulfi","Lunch and Dinner","Vegetarian","sweet"," milk"," cream",1
+"U1061","Jeera Rice","Lunch and Dinner","Vegetarian","rice",NULL,NULL,2
+"U1061","Bendekaayi Gojju (Ladys Finger Gravy)","Lunch and Dinner","Vegetarian","lady finger"," coconut"," pulses",2
+"U1061","Dal Tadka","Lunch and Dinner","Vegetarian","pulses",NULL,NULL,2
+"U1013","Chicken Korma","Lunch and Dinner","Non-Vegeterian","chicken"," coconut milk"," spices",1
+"U1013","Chicken Achari","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," spices",1
+"U1061","Lemon Rice","Lunch and Dinner","Vegetarian","rice"," lemon",NULL,3
+"U1061","Fish tikka","Lunch and Dinner","Non-Vegeterian","fish"," yogurt"," spices",2
+"U1061","Prawns Manchurian","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",1
+"U1046","Plain Naan","Lunch and Dinner","Vegetarian","flour",NULL,NULL,3
+"U1046","Cashew Chicken","Lunch and Dinner","Non-Vegeterian","chicken"," cashew"," sauce",5
+"U1046","Fish Manchurian","Lunch and Dinner","Non-Vegeterian","fish"," corn flour"," sauce",5
+"U1046","Prawns Manchurian","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",3
+"U1046","Gulab Jamun","Lunch and Dinner","Vegetarian","sweet"," milk"," ghee",2
+"U1046","Moong daal Halwa","Lunch and Dinner","Vegetarian","sweet"," dal"," ghee",2
+"U1046","Chilli Paneer","Lunch and Dinner","Vegetarian","paneer"," corn flour"," sauce",1
+"U1046","Ice Tea","Lunch and Dinner","Vegetarian","tea"," sweet"," lemon",3
+"U1041","Paneer Amritsari Tikka","Lunch and Dinner","Vegetarian","paneer"," lemon"," spices",2
+"U1041","Chicken Majestic","Lunch and Dinner","Non-Vegeterian","chicken"," butter"," flour",3
+"U1041","Prawns Fry","Lunch and Dinner","Non-Vegeterian","fish"," prawns"," yogurt",3
+"U1041","Mango Kuzhambu","Lunch and Dinner","Vegetarian","mango",NULL,NULL,4
+"U1041","Chicken Manchurian","Lunch and Dinner","Non-Vegeterian","chicken"," sauce"," corn flour",3
+"U1041","Chicken Drum Sticks","Lunch and Dinner","Non-Vegeterian","chicken"," butter"," flour",2
+"U1004","Gulab Jamun","Lunch and Dinner","Vegetarian","sweet"," milk"," ghee",3
+"U1004","Mutton Biryani","Lunch and Dinner","Non-Vegeterian","rice"," mutton",NULL,5
+"U1004","Pepper Garlic Chicken","Lunch and Dinner","Non-Vegeterian","chicken"," spices"," vegetables ",3
+"U1003","Chicken RR","Lunch and Dinner","Non-Vegeterian","chicken"," pasta"," sauce",5
+"U1059","Gobi Manchurian","Lunch and Dinner","Vegetarian","corn flour"," vegetables"," sauce",4
+"U1059","Paneer 65","Lunch and Dinner","Vegetarian","paneer"," rice flour"," spices",3
+"U1059","Murgh Tangdi Kabab","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," lemon",3
+"U1061","Mutton Kofte","Lunch and Dinner","Non-Vegeterian","mutton"," yogurt"," spices",2
+"U1061","Mutton Kofte","Lunch and Dinner","Non-Vegeterian","mutton"," yogurt"," spices",2
+"U1061","Veg Spring Rolls","Lunch and Dinner","Vegetarian","vegetables"," flour"," flour",2
+"U1061","Mughlai Chicken Handi","Lunch and Dinner","Non-Vegeterian","chicken"," spices"," ghee",3
+"U1090","Paneer Amritsari Tikka","Lunch and Dinner","Vegetarian","paneer"," lemon"," spices",5
+"U1090","Lassi","Lunch and Dinner","Vegetarian","milk"," sweet"," curd",2
+"U1112","Shahi Tukda","Lunch and Dinner","Vegetarian","sweet"," milk"," bread",4
+"U1112","Chicken Achari","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," spices",5
+"U1112","Chicken RR","Lunch and Dinner","Non-Vegeterian","chicken"," pasta"," sauce",3
+"U1090","Mutton Kofte","Lunch and Dinner","Non-Vegeterian","mutton"," yogurt"," spices",1
+"U1057","Butter Naan","Lunch and Dinner","Vegetarian","flour"," butter",NULL,5
+"U1112","Chicken Pizza","Lunch and Dinner","Non-Vegeterian","chicken"," pizza"," cheese",5
+"U1057","Gobi Manchurian","Lunch and Dinner","Vegetarian","corn flour"," vegetables"," sauce",4
+"U1112","Mushroom Malai Tikka","Lunch and Dinner","Vegetarian","mushroom"," cream"," spices",5
+"U1112","Mixed Non-Veg Fried Rice","Lunch and Dinner","Non-Vegeterian","rice"," vegetables"," egg",1
+"U1090","Paneer Amritsari Tikka","Lunch and Dinner","Vegetarian","paneer"," lemon"," spices",1
+"U1090","Carrot Halwa","Lunch and Dinner","Vegetarian","sweet"," carrot"," ghee",1
+"U1112","Mutton Awadhi Kabab","Lunch and Dinner","Non-Vegeterian","mutton"," papaya"," spices",3
+"U1057","Fish Fry","Lunch and Dinner","Non-Vegeterian","fish"," spices"," lemon",3
+"U1112","Haryali Paneer Tikka","Lunch and Dinner","Vegetarian","paneer","yogurt"," spices",1
+"U1061","Hyderabadi Keema","Lunch and Dinner","Non-Vegeterian","mutton"," spices",NULL,5
+"U1112","Murgh Tangdi Kabab","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," lemon",2
+"U1061","Dal Tadka","Lunch and Dinner","Vegetarian","pulses",NULL,NULL,5
+"U1112","Pepper Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," spices"," pepper",4
+"U1090","Prawns Fry","Lunch and Dinner","Non-Vegeterian","fish"," prawns"," yogurt",5
+"U1112","Mango Kuzhambu","Lunch and Dinner","Vegetarian","mango",NULL,NULL,3
+"U1090","Chicken Majestic","Lunch and Dinner","Non-Vegeterian","chicken"," butter"," flour",5
+"U1025","Veg Platter","Lunch and Dinner","Vegetarian","vegetables"," yogurt"," lemon",5
+"U1057","Veg Platter","Lunch and Dinner","Vegetarian","vegetables"," yogurt"," lemon",3
+"U1112","Mughlai Chicken Handi","Lunch and Dinner","Non-Vegeterian","chicken"," spices"," ghee",4
+"U1057","Garlic Naan","Lunch and Dinner","Vegetarian","flour"," garlic",NULL,2
+"U1112","Chicken Tandoori","Lunch and Dinner","Non-Vegeterian","chicken"," spices"," lemon",2
+"U1061","Mutton Fry","Lunch and Dinner","Non-Vegeterian","mutton"," spices",NULL,4
+"U1025","Chicken Drum Sticks","Lunch and Dinner","Non-Vegeterian","chicken"," butter"," flour",1
+"U1057","Chicken 65","Lunch and Dinner","Non-Vegeterian","chicken"," rice flour"," spices",1
+"U1057","Aloo Gobi Masala","Lunch and Dinner","Vegetarian","vegetables"," spices"," potato",1
+"U1090","Corn Cheese Pizza","Lunch and Dinner","Vegetarian","corn"," pizza"," cheese",5
+"U1090","Veg biryani","Lunch and Dinner","Vegetarian","rice"," vegetables",NULL,4
+"U1057","Ice-cream","Lunch and Dinner","Vegetarian","sweet"," milk",NULL,1
+"U1057","Paneer Tikka","Lunch and Dinner","Vegetarian","paneer","yogurt","vegetables",1
+"U1025","Mushroom Malai Tikka","Lunch and Dinner","Vegetarian","mushroom"," cream"," spices",1
+"U1057","Vanilla Milkshake","Lunch and Dinner","Vegetarian","milk"," vanilla"," sweet",2
+"U1025","Plain Dosa","Lunch and Dinner","Vegetarian","black gram"," rice",NULL,5
+"U1057","Haryali Paneer Tikka","Lunch and Dinner","Vegetarian","paneer","yogurt"," spices",5
+"U1025","Barbeque Chicken with Breast","Lunch and Dinner","Non-Vegeterian","chicken"," spices",NULL,3
+"U1025","Chicken Pulao","Lunch and Dinner","Non-Vegeterian","rice"," chicken",NULL,2
+"U1025","Chicken Tikka Dry","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," spices",2
+"U1025","Mutton Kofte","Lunch and Dinner","Non-Vegeterian","mutton"," yogurt"," spices",5
+"U1025","Jeera Rice","Lunch and Dinner","Vegetarian","rice",NULL,NULL,3
+"U1025","Garlic Naan","Lunch and Dinner","Vegetarian","flour"," garlic",NULL,4
+"U1025","Mughlai Chicken Handi","Lunch and Dinner","Non-Vegeterian","chicken"," spices"," ghee",1
+"U1097","Pepper Mutton","Lunch and Dinner","Non-Vegeterian","mutton"," spices"," lemon",5
+"U1097","Bendekaayi Gojju (Ladys Finger Gravy)","Lunch and Dinner","Vegetarian","lady finger"," coconut"," pulses",3
+"U1097","Chocolate Brownie","Lunch and Dinner","Vegetarian","sweet"," chocolate"," milk",2
+"U1097","Shahi Tukda","Lunch and Dinner","Vegetarian","sweet"," milk"," bread",4
+"U1097","Prawns Fry","Lunch and Dinner","Non-Vegeterian","fish"," prawns"," yogurt",3
+"U1059","Lassi","Lunch and Dinner","Vegetarian","milk"," sweet"," curd",5
+"U1059","Kesariya Kheer","Lunch and Dinner","Vegetarian","sweet"," rice"," milk",1
+"U1059","Arachu Vitta Sambar","Lunch and Dinner","Vegetarian","vegetables"," dal"," sambar powder ",4
+"U1059","Veg Pulao","Lunch and Dinner","Vegetarian","rice"," vegetables",NULL,4
+"U1059","Chicken RR","Lunch and Dinner","Non-Vegeterian","chicken"," pasta"," sauce",5
+"U1128","Mutton Fry","Lunch and Dinner","Non-Vegeterian","mutton"," spices",NULL,1
+"U1059","Mix Veg Curry","Lunch and Dinner","Vegetarian","vegetables"," spices",NULL,3
+"U1059","Prawns Biryani","Lunch and Dinner","Non-Vegeterian","rice"," prawns",NULL,2
+"U1128","Lemon Chicken","Lunch and Dinner","Non-Vegeterian","chicken"," lemon"," spices",3
+"U1128","Chicken Dum Biryani","Lunch and Dinner","Non-Vegeterian","rice"," chicken",NULL,2
+"U1128","Garlic Naan","Lunch and Dinner","Vegetarian","flour"," garlic",NULL,2
+"U1128","Veg Manchurian","Lunch and Dinner","Vegetarian","vegetables"," corn flour"," sauce",5
+"U1128","Fruit cream","Lunch and Dinner","Vegetarian","sweet"," fruits"," cream",2
+"U1128","Veg Pakora","Lunch and Dinner","Vegetarian","vegetables"," flour ",NULL,4
+"U1128","Nihari Gosht","Lunch and Dinner","Non-Vegeterian","mutton"," spices"," yogurt",2
+"U1128","Murgh Tangdi Kabab","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," lemon",4
+"U1128","Chicken Korma","Lunch and Dinner","Non-Vegeterian","chicken"," coconut milk"," spices",2
+"U1097","Farm Fresh Pizza","Lunch and Dinner","Vegetarian","pizza"," vegetables"," cheese",4
+"U1097","Paneer Tikka","Lunch and Dinner","Vegetarian","paneer","yogurt","vegetables",4
+"U1097","Cashew Chicken","Lunch and Dinner","Non-Vegeterian","chicken"," cashew"," sauce",3
+"U1097","Shahi Tukda","Lunch and Dinner","Vegetarian","sweet"," milk"," bread",3
+"U1097","Fish Fry","Lunch and Dinner","Non-Vegeterian","fish"," spices"," lemon",1
+"U1006","Seekh Kabab","Lunch and Dinner","Non-Vegeterian","mutton"," yogurt"," spices",1
+"U1006","Veg Spring Rolls","Lunch and Dinner","Vegetarian","vegetables"," flour"," flour",2
+"U1006","Malvani Chicken Curry","Lunch and Dinner","Non-Vegeterian","chicken"," coconut"," spices",4
+"U1006","Chicken Pepperoni Piza","Lunch and Dinner","Non-Vegeterian","chicken"," pizza"," cheese",2
+"U1006","Mutton Seekh Kabab","Lunch and Dinner","Non-Vegeterian","mutton"," spices"," egg",5
+"U1006","Mushroom Tikka","Lunch and Dinner","Vegetarian","mushroom"," yogurt"," spices",2
+"U1006","South Indian Chicken masala","Lunch and Dinner","Non-Vegeterian","chicken"," coconut mik "," spices",3
+"U1006","Mutton Pepper Fry","Lunch and Dinner","Non-Vegeterian","mutton"," spices"," lemon",2
+"U1006","Chicken Fry","Lunch and Dinner","Non-Vegeterian","chicken"," egg"," flour",1
+"U1006","Chocolate Milkshake","Lunch and Dinner","Vegetarian","milk"," chocolate"," sweet",2
+"U1006","Paneer Amritsari Tikka","Lunch and Dinner","Vegetarian","paneer"," lemon"," spices",2
+"U1131","Fresh Lime Soda","Lunch and Dinner","Vegetarian","lemon"," soda",NULL,4
+"U1131","Chilli Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",4
+"U1131","Nihari Gosht","Lunch and Dinner","Non-Vegeterian","mutton"," spices"," yogurt",2
+"U1131","Matar Pulao","Lunch and Dinner","Vegetarian","rice",NULL,NULL,3
+"U1131","Corn Cheese Pizza","Lunch and Dinner","Vegetarian","corn"," pizza"," cheese",5
+"U1131","Paneer Tikka","Lunch and Dinner","Vegetarian","paneer","yogurt","vegetables",3
+"U1073","Chocolate Milkshake","Lunch and Dinner","Vegetarian","milk"," chocolate"," sweet",2
+"U1073","Lacha Paratha","Lunch and Dinner","Vegetarian","flour"," ghee",NULL,4
+"U1073","Chilli Chicken","Lunch and Dinner","Non-Vegeterian","chicken"," sauce"," corn flour",5
+"U1073","Plain Naan","Lunch and Dinner","Vegetarian","flour",NULL,NULL,5
+"U1073","Pepper Garlic Chicken","Lunch and Dinner","Non-Vegeterian","chicken"," spices"," vegetables ",5
+"U1073","Corn Cheese Pizza","Lunch and Dinner","Vegetarian","corn"," pizza"," cheese",3
+"U1073","Apollo Fish","Lunch and Dinner","Non-Vegeterian","fish"," corn flour"," sauce",1
+"U1073","Avial with Kerala Red Rice","Lunch and Dinner","Vegetarian","rice"," vegetables",NULL,1
+"U1073","Chilli Fish","Lunch and Dinner","Non-Vegeterian","fish"," corn flour"," sauce",3
+"U1073","Mutton Cutlet","Lunch and Dinner","Non-Vegeterian","mutton"," spices"," potato",4
+"U1073","Plain Naan","Lunch and Dinner","Vegetarian","flour",NULL,NULL,4
+"U1049","Cashew Chicken","Lunch and Dinner","Non-Vegeterian","chicken"," cashew"," sauce",4
+"U1049","Garlic Naan","Lunch and Dinner","Vegetarian","flour"," garlic",NULL,4
+"U1049","Jeera Rice","Lunch and Dinner","Vegetarian","rice",NULL,NULL,5
+"U1049","Prawns Manchurian","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",1
+"U1049","Chicken RR","Lunch and Dinner","Non-Vegeterian","chicken"," pasta"," sauce",1
+"U1049","Loose Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," spices",2
+"U1049","Vanilla Milkshake","Lunch and Dinner","Vegetarian","milk"," vanilla"," sweet",1
+"U1058","Mutton Fry","Lunch and Dinner","Non-Vegeterian","mutton"," spices",NULL,1
+"U1058","Paneer Amritsari Tikka","Lunch and Dinner","Vegetarian","paneer"," lemon"," spices",2
+"U1058","Mutton Cutlet","Lunch and Dinner","Non-Vegeterian","mutton"," spices"," potato",2
+"U1058","Veg lollipop","Lunch and Dinner","Vegetarian","vegetables"," corn flour"," spices",4
+"U1058","Avial with Kerala Red Rice","Lunch and Dinner","Vegetarian","rice"," vegetables",NULL,5
+"U1058","Mutton 65 Pizza","Lunch and Dinner","Non-Vegeterian","mutton"," pizza"," cheese",3
+"U1058","Chilli Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",4
+"U1058","Veg Kofta","Lunch and Dinner","Vegetarian","vegetables"," flour"," spices",4
+"U1002","Paneer Pulao","Lunch and Dinner","Vegetarian","rice"," paneer",NULL,2
+"U1002","Veg Dum Biryani","Lunch and Dinner","Vegetarian","rice"," vegetables",NULL,5
+"U1002","Mutton 65 Pizza","Lunch and Dinner","Non-Vegeterian","mutton"," pizza"," cheese",4
+"U1002","Gobi Manchurian","Lunch and Dinner","Vegetarian","corn flour"," vegetables"," sauce",5
+"U1002","Chicken Majestic","Lunch and Dinner","Non-Vegeterian","chicken"," butter"," flour",4
+"U1002","Carrot Halwa","Lunch and Dinner","Vegetarian","sweet"," carrot"," ghee",3
+"U1096","Murgh Lasooni Kabab","Lunch and Dinner","Non-Vegeterian","chicken"," cream"," spices",2
+"U1002","Paneer Tikka","Lunch and Dinner","Vegetarian","paneer","yogurt","vegetables",3
+"U1002","Chilli Chicken","Lunch and Dinner","Non-Vegeterian","chicken"," sauce"," corn flour",5
+"U1002","Lacha Paratha","Lunch and Dinner","Vegetarian","flour"," ghee",NULL,1
+"U1002","Chicken Madagascar","Lunch and Dinner","Non-Vegeterian","chicken"," coconut milk"," spices",5
+"U1096","Chicken Tikka Dry","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," spices",1
+"U1096","Chicken Achari","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," spices",3
+"U1096","Lacha Paratha","Lunch and Dinner","Vegetarian","flour"," ghee",NULL,2
+"U1096","Prawns Biryani","Lunch and Dinner","Non-Vegeterian","rice"," prawns",NULL,2
+"U1096","Haryali Paneer Tikka","Lunch and Dinner","Vegetarian","paneer","yogurt"," spices",2
+"U1136","Chicken Chettinad","Lunch and Dinner","Non-Vegeterian","chicken"," spices",NULL,4
+"U1096","Hyderabadi Keema","Lunch and Dinner","Non-Vegeterian","mutton"," spices",NULL,2
+"U1136","Chicken Manchurian","Lunch and Dinner","Non-Vegeterian","chicken"," sauce"," corn flour",3
+"U1096","Loose Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," spices",1
+"U1136","Mutton 65 Pizza","Lunch and Dinner","Non-Vegeterian","mutton"," pizza"," cheese",3
+"U1136","Garlic Naan","Lunch and Dinner","Vegetarian","flour"," garlic",NULL,2
+"U1096","Golden Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",3
+"U1136","Chicken Madagascar","Lunch and Dinner","Non-Vegeterian","chicken"," coconut milk"," spices",5
+"U1136","Fruit cream","Lunch and Dinner","Vegetarian","sweet"," fruits"," cream",1
+"U1096","Chicken Pulao","Lunch and Dinner","Non-Vegeterian","rice"," chicken",NULL,5
+"U1096","Chicken Pepperoni Piza","Lunch and Dinner","Non-Vegeterian","chicken"," pizza"," cheese",5
+"U1136","Chicken Madagascar","Lunch and Dinner","Non-Vegeterian","chicken"," coconut milk"," spices",5
+"U1136","Veg Cutlet","Lunch and Dinner","Vegetarian","vegetables"," bread",NULL,1
+"U1136","Paneer Tikka","Lunch and Dinner","Vegetarian","paneer","yogurt","vegetables",3
+"U1136","Mutton Pepper Fry","Lunch and Dinner","Non-Vegeterian","mutton"," spices"," lemon",1
+"U1097","Margarita Pizza","Lunch and Dinner","Vegetarian","pizza"," cheese",NULL,3
+"U1097","Tandoori Fish","Lunch and Dinner","Non-Vegeterian","fish"," yogurt"," spices",3
+"U1097","Mutton Kofte","Lunch and Dinner","Non-Vegeterian","mutton"," yogurt"," spices",1
+"U1058","Paneer 65","Lunch and Dinner","Vegetarian","paneer"," rice flour"," spices",4
+"U1058","Paneer Tikka","Lunch and Dinner","Vegetarian","paneer","yogurt","vegetables",1
+"U1010","Butter Roti","Lunch and Dinner","Vegetarian","flour"," butter",NULL,3
+"U1010","Prawns Fry","Lunch and Dinner","Non-Vegeterian","fish"," prawns"," yogurt",5
+"U1010","Chilli Mushroom","Lunch and Dinner","Vegetarian","mushroom"," corn flour"," sauce",2
+"U1003","Prawns Biryani","Lunch and Dinner","Non-Vegeterian","rice"," prawns",NULL,2
+"U1010","Crispy Corn","Lunch and Dinner","Vegetarian","corn"," corn flour"," spices",4
+"U1010","Butter Chicken","Lunch and Dinner","Non-Vegeterian","chicken"," spices"," butter",5
+"U1010","Aloo Gobi Masala","Lunch and Dinner","Vegetarian","vegetables"," spices"," potato",3
+"U1102","Butter Chicken","Lunch and Dinner","Non-Vegeterian","chicken"," spices"," butter",5
+"U1102","Nihari Gosht","Lunch and Dinner","Non-Vegeterian","mutton"," spices"," yogurt",4
+"U1010","Chicken RR","Lunch and Dinner","Non-Vegeterian","chicken"," pasta"," sauce",1
+"U1102","Chicken Roast","Lunch and Dinner","Non-Vegeterian","chicken"," spices"," lemon",1
+"U1010","Jeera Rice","Lunch and Dinner","Vegetarian","rice",NULL,NULL,4
+"U1102","Gulab Jamun","Lunch and Dinner","Vegetarian","sweet"," milk"," ghee",1
+"U1013","Apollo Fish","Lunch and Dinner","Non-Vegeterian","fish"," corn flour"," sauce",2
+"U1013","Pepper Garlic Chicken","Lunch and Dinner","Non-Vegeterian","chicken"," spices"," vegetables ",3
+"U1028","Arachu Vitta Sambar","Lunch and Dinner","Vegetarian","vegetables"," dal"," sambar powder ",1
+"U1028","Gobi Manchurian","Lunch and Dinner","Vegetarian","corn flour"," vegetables"," sauce",3
+"U1028","Lemon Chicken","Lunch and Dinner","Non-Vegeterian","chicken"," lemon"," spices",5
+"U1050","Tandoori Fish","Lunch and Dinner","Non-Vegeterian","fish"," yogurt"," spices",5
+"U1050","Chilli Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",1
+"U1050","Chicken Manchurian","Lunch and Dinner","Non-Vegeterian","chicken"," sauce"," corn flour",3
+"U1050","Garlic Naan","Lunch and Dinner","Vegetarian","flour"," garlic",NULL,3
+"U1050","Barbeque Chicken with Breast","Lunch and Dinner","Non-Vegeterian","chicken"," spices",NULL,3
+"U1050","Chocolate Milkshake","Lunch and Dinner","Vegetarian","milk"," chocolate"," sweet",3
+"U1050","Chilli Mushroom","Lunch and Dinner","Vegetarian","mushroom"," corn flour"," sauce",2
+"U1028","Fish Fry","Lunch and Dinner","Non-Vegeterian","fish"," spices"," lemon",4
+"U1129","Chicken 65","Lunch and Dinner","Non-Vegeterian","chicken"," rice flour"," spices",5
+"U1129","Margarita Pizza","Lunch and Dinner","Vegetarian","pizza"," cheese",NULL,3
+"U1028","Mushroom Masala","Lunch and Dinner","Vegetarian","mushroom"," spices",NULL,1
+"U1028","Mushroom Tikka","Lunch and Dinner","Vegetarian","mushroom"," yogurt"," spices",1
+"U1028","Chilli Fish","Lunch and Dinner","Non-Vegeterian","fish"," corn flour"," sauce",1
+"U1087","Chicken Malai","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," spices",4
+"U1087","Chicken Fry","Lunch and Dinner","Non-Vegeterian","chicken"," egg"," flour",2
+"U1087","Plain Naan","Lunch and Dinner","Vegetarian","flour",NULL,NULL,4
+"U1087","Veg biryani","Lunch and Dinner","Vegetarian","rice"," vegetables",NULL,4
+"U1087","Mixed Non-Veg Fried Rice","Lunch and Dinner","Non-Vegeterian","rice"," vegetables"," egg",4
+"U1087","Chicken Roast","Lunch and Dinner","Non-Vegeterian","chicken"," spices"," lemon",3
+"U1087","Barbeque Chicken with Breast","Lunch and Dinner","Non-Vegeterian","chicken"," spices",NULL,2
+"U1087","Chicken Fried Rice","Lunch and Dinner","Non-Vegeterian","rice"," chicken",NULL,4
+"U1065","Veg Spring Rolls","Lunch and Dinner","Vegetarian","vegetables"," flour"," flour",2
+"U1065","Murgh Tangdi Kabab","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," lemon",4
+"U1129","Barbeque Chicken with Breast","Lunch and Dinner","Non-Vegeterian","chicken"," spices",NULL,1
+"U1065","Prawns Fry","Lunch and Dinner","Non-Vegeterian","fish"," prawns"," yogurt",1
+"U1129","Kesariya Kheer","Lunch and Dinner","Vegetarian","sweet"," rice"," milk",1
+"U1065","Loose Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," spices",3
+"U1039","Lacha Paratha","Lunch and Dinner","Vegetarian","flour"," ghee",NULL,1
+"U1039","Golden Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",3
+"U1065","Mushroom Tikka","Lunch and Dinner","Vegetarian","mushroom"," yogurt"," spices",3
+"U1039","Chicken Kheema Balls Pizza","Lunch and Dinner","Non-Vegeterian","chicken"," pizza"," cheese",5
+"U1130","Murgh Lasooni Kabab","Lunch and Dinner","Non-Vegeterian","chicken"," cream"," spices",4
+"U1130","Mushroom Tikka","Lunch and Dinner","Vegetarian","mushroom"," yogurt"," spices",2
+"U1130","Dal Tadka","Lunch and Dinner","Vegetarian","pulses",NULL,NULL,4
+"U1130","Loose Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," spices",1
+"U1043","Shahi Tukda","Lunch and Dinner","Vegetarian","sweet"," milk"," bread",4
+"U1043","Chicken Achari","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," spices",3
+"U1011","Kesariya Kheer","Lunch and Dinner","Vegetarian","sweet"," rice"," milk",4
+"U1043","Butter Chicken","Lunch and Dinner","Non-Vegeterian","chicken"," spices"," butter",3
+"U1011","Hyderabadi Keema","Lunch and Dinner","Non-Vegeterian","mutton"," spices",NULL,2
+"U1043","Paneer Achari","Lunch and Dinner","Vegetarian","paneer","yogurt","vegetables",2
+"U1043","Mutton Dum Biryani","Lunch and Dinner","Non-Vegeterian","rice"," mutton",NULL,1
+"U1011","Chilli Mushroom","Lunch and Dinner","Vegetarian","mushroom"," corn flour"," sauce",4
+"U1068","Chicken Drum Sticks","Lunch and Dinner","Non-Vegeterian","chicken"," butter"," flour",2
+"U1068","Barbeque Chicken with Breast","Lunch and Dinner","Non-Vegeterian","chicken"," spices",NULL,4
+"U1068","Veg Kofta","Lunch and Dinner","Vegetarian","vegetables"," flour"," spices",5
+"U1001","Malai Kulfi","Lunch and Dinner","Vegetarian","sweet"," milk"," cream",5
+"U1001","Gulab Jamun","Lunch and Dinner","Vegetarian","sweet"," milk"," ghee",3
+"U1001","Mutton 65","Lunch and Dinner","Non-Vegeterian","mutton"," rice flour"," spices",3
+"U1001","Carrot Halwa","Lunch and Dinner","Vegetarian","sweet"," carrot"," ghee",1
+"U1001","Mughlai Chicken Handi","Lunch and Dinner","Non-Vegeterian","chicken"," spices"," ghee",2
+"U1005","Veg Platter","Lunch and Dinner","Vegetarian","vegetables"," yogurt"," lemon",5
+"U1005","Chocolate Brownie","Lunch and Dinner","Vegetarian","sweet"," chocolate"," milk",3
+"U1005","Murgh Tangdi Kabab","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," lemon",3
+"U1005","Mutton Biryani","Lunch and Dinner","Non-Vegeterian","rice"," mutton",NULL,2
+"U1013","Corn Cheese Pizza","Lunch and Dinner","Vegetarian","corn"," pizza"," cheese",1
+"U1013","Chicken Manchurian","Lunch and Dinner","Non-Vegeterian","chicken"," sauce"," corn flour",5
+"U1013","Chicken Drum Sticks","Lunch and Dinner","Non-Vegeterian","chicken"," butter"," flour",3
+"U1013","Lemon Rice","Lunch and Dinner","Vegetarian","rice"," lemon",NULL,1
+"U1015","Moong daal Halwa","Lunch and Dinner","Vegetarian","sweet"," dal"," ghee",2
+"U1015","Veg biryani","Lunch and Dinner","Vegetarian","rice"," vegetables",NULL,4
+"U1015","Chicken RR","Lunch and Dinner","Non-Vegeterian","chicken"," pasta"," sauce",4
+"U1015","Lemon Rice","Lunch and Dinner","Vegetarian","rice"," lemon",NULL,3
+"U1019","Lemon Chicken","Lunch and Dinner","Non-Vegeterian","chicken"," lemon"," spices",2
+"U1019","Farm Fresh Pizza","Lunch and Dinner","Vegetarian","pizza"," vegetables"," cheese",4
+"U1019","Chicken Roast","Lunch and Dinner","Non-Vegeterian","chicken"," spices"," lemon",5
+"U1005","Plain Naan","Lunch and Dinner","Vegetarian","flour",NULL,NULL,5
+"U1005","Apollo Fish","Lunch and Dinner","Non-Vegeterian","fish"," corn flour"," sauce",4
+"U1005","South Indian Chicken masala","Lunch and Dinner","Non-Vegeterian","chicken"," coconut mik "," spices",3
+"U1016","Hara Bara Kabab","Lunch and Dinner","Vegetarian","vegetables"," flour"," bread",2
+"U1016","Chicken 65","Lunch and Dinner","Non-Vegeterian","chicken"," rice flour"," spices",1
+"U1035","Golden Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",2
+"U1035","Prawns Manchurian","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",4
+"U1035","Mango Kuzhambu","Lunch and Dinner","Vegetarian","mango",NULL,NULL,4
+"U1038","Garlic Naan","Lunch and Dinner","Vegetarian","flour"," garlic",NULL,5
+"U1038","Mushroom Tikka","Lunch and Dinner","Vegetarian","mushroom"," yogurt"," spices",5
+"U1038","Paneer Tikka Masala","Lunch and Dinner","Vegetarian","paneer"," spices"," lemon",1
+"U1040","Mango Kuzhambu","Lunch and Dinner","Vegetarian","mango",NULL,NULL,3
+"U1040","Chicken Pepperoni Piza","Lunch and Dinner","Non-Vegeterian","chicken"," pizza"," cheese",5
+"U1040","Shahi Tukda","Lunch and Dinner","Vegetarian","sweet"," milk"," bread",3
+"U1040","Paneer Tikka","Lunch and Dinner","Vegetarian","paneer","yogurt","vegetables",3
+"U1048","Prawns Fry","Lunch and Dinner","Non-Vegeterian","fish"," prawns"," yogurt",4
+"U1048","Malvani Chicken Curry","Lunch and Dinner","Non-Vegeterian","chicken"," coconut"," spices",3
+"U1048","Garlic Naan","Lunch and Dinner","Vegetarian","flour"," garlic",NULL,3
+"U1048","Chicken Pepperoni Piza","Lunch and Dinner","Non-Vegeterian","chicken"," pizza"," cheese",3
+"U1052","Haryali Paneer Tikka","Lunch and Dinner","Vegetarian","paneer","yogurt"," spices",5
+"U1052","Apollo Fish","Lunch and Dinner","Non-Vegeterian","fish"," corn flour"," sauce",5
+"U1052","Plain Dosa","Lunch and Dinner","Vegetarian","black gram"," rice",NULL,4
+"U1052","Chicken Achari","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," spices",5
+"U1065","Prawns Fry","Lunch and Dinner","Non-Vegeterian","fish"," prawns"," yogurt",1
+"U1065","Mutton Dum Biryani","Lunch and Dinner","Non-Vegeterian","rice"," mutton",NULL,1
+"U1065","Malvani Chicken Curry","Lunch and Dinner","Non-Vegeterian","chicken"," coconut"," spices",3
+"U1065","Plain Naan","Lunch and Dinner","Vegetarian","flour",NULL,NULL,5
+"U1065","Moong daal Halwa","Lunch and Dinner","Vegetarian","sweet"," dal"," ghee",5
+"U1161","Fish tikka","Lunch and Dinner","Non-Vegeterian","fish"," yogurt"," spices",4
+"U1161","Paneer Pulao","Lunch and Dinner","Vegetarian","rice"," paneer",NULL,3
+"U1161","Veg lollipop","Lunch and Dinner","Vegetarian","vegetables"," corn flour"," spices",1
+"U1161","Lemon Chicken","Lunch and Dinner","Non-Vegeterian","chicken"," lemon"," spices",2
+"U1161","Butter Chicken","Lunch and Dinner","Non-Vegeterian","chicken"," spices"," butter",1
+"U1173","Virgin Mojito","Lunch and Dinner","Vegetarian","soda"," lemon",NULL,3
+"U1173","Chilli Mushroom","Lunch and Dinner","Vegetarian","mushroom"," corn flour"," sauce",5
+"U1173","Prawns Biryani","Lunch and Dinner","Non-Vegeterian","rice"," prawns",NULL,4
+"U1164","Pepper Mutton","Lunch and Dinner","Non-Vegeterian","mutton"," spices"," lemon",1
+"U1164","Plain Naan","Lunch and Dinner","Vegetarian","flour",NULL,NULL,1
+"U1173","Gulab Jamun","Lunch and Dinner","Vegetarian","sweet"," milk"," ghee",4
+"U1164","Mughlai Chicken Handi","Lunch and Dinner","Non-Vegeterian","chicken"," spices"," ghee",5
+"U1164","Fish tikka","Lunch and Dinner","Non-Vegeterian","fish"," yogurt"," spices",4
+"U1146","Murgh Tangdi Kabab","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," lemon",5
+"U1146","Chicken 65","Lunch and Dinner","Non-Vegeterian","chicken"," rice flour"," spices",4
+"U1146","Plain Roti","Lunch and Dinner","Vegetarian","flour"," water",NULL,3
+"U1146","Pepper Garlic Chicken","Lunch and Dinner","Non-Vegeterian","chicken"," spices"," vegetables ",3
+"U1148","Chicken Tikka Dry","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," spices",1
+"U1148","Hara Bara Kabab","Lunch and Dinner","Vegetarian","vegetables"," flour"," bread",2
+"U1148","Corn Cheese Pizza","Lunch and Dinner","Vegetarian","corn"," pizza"," cheese",4
+"U1148","Mughlai Chicken Handi","Lunch and Dinner","Non-Vegeterian","chicken"," spices"," ghee",3
+"U1148","Carrot Halwa","Lunch and Dinner","Vegetarian","sweet"," carrot"," ghee",2
+"U1161","Chicken Malai","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," spices",1
+"U1161","Paneer Amritsari Tikka","Lunch and Dinner","Vegetarian","paneer"," lemon"," spices",4
+"U1161","Chicken Fry","Lunch and Dinner","Non-Vegeterian","chicken"," egg"," flour",5
+"U1161","Chicken Pizza","Lunch and Dinner","Non-Vegeterian","chicken"," pizza"," cheese",4
+"U1131","Chilli Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",2
+"U1131","Chicken Pulao","Lunch and Dinner","Non-Vegeterian","rice"," chicken",NULL,5
+"U1131","Veg Spring Rolls","Lunch and Dinner","Vegetarian","vegetables"," flour"," flour",3
+"U1131","Chicken Korma","Lunch and Dinner","Non-Vegeterian","chicken"," coconut milk"," spices",4
+"U1153","Mutton 65","Lunch and Dinner","Non-Vegeterian","mutton"," rice flour"," spices",1
+"U1153","Paneer Pulao","Lunch and Dinner","Vegetarian","rice"," paneer",NULL,3
+"U1153","Pepper Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," spices"," pepper",5
+"U1153","Mughlai Chicken Handi","Lunch and Dinner","Non-Vegeterian","chicken"," spices"," ghee",4
+"U1139","Seekh Kabab","Lunch and Dinner","Non-Vegeterian","mutton"," yogurt"," spices",5
+"U1140","Chilli Chicken","Lunch and Dinner","Non-Vegeterian","chicken"," sauce"," corn flour",1
+"U1141","Carrot Halwa","Lunch and Dinner","Vegetarian","sweet"," carrot"," ghee",3
+"U1142","Tandoori Fish","Lunch and Dinner","Non-Vegeterian","fish"," yogurt"," spices",3
+"U1143","Lacha Paratha","Lunch and Dinner","Vegetarian","flour"," ghee",NULL,3
+"U1144","Chilli Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",3
+"U1145","Paneer 65","Lunch and Dinner","Vegetarian","paneer"," rice flour"," spices",1
+"U1146","Chicken Fried Rice","Lunch and Dinner","Non-Vegeterian","rice"," chicken",NULL,5
+"U1147","Chicken Pizza","Lunch and Dinner","Non-Vegeterian","chicken"," pizza"," cheese",5
+"U1148","Fresh Lime Soda","Lunch and Dinner","Vegetarian","lemon"," soda",NULL,5
+"U1149","Hara Bara Kabab","Lunch and Dinner","Vegetarian","vegetables"," flour"," bread",5
+"U1150","Fish Biryani","Lunch and Dinner","Non-Vegeterian","fish"," rice",NULL,1
+"U1151","Chicken Tikka Dry","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," spices",5
+"U1152","Chicken Malai","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," spices",4
+"U1153","Gulab Jamun","Lunch and Dinner","Vegetarian","sweet"," milk"," ghee",4
+"U1154","Corn Cheese Pizza","Lunch and Dinner","Vegetarian","corn"," pizza"," cheese",2
+"U1155","Chilli Mushroom","Lunch and Dinner","Vegetarian","mushroom"," corn flour"," sauce",2
+"U1156","Margarita Pizza","Lunch and Dinner","Vegetarian","pizza"," cheese",NULL,4
+"U1157","Mango Kuzhambu","Lunch and Dinner","Vegetarian","mango",NULL,NULL,1
+"U1158","Ice-cream","Lunch and Dinner","Vegetarian","sweet"," milk",NULL,3
+"U1159","Paneer Tikka Masala","Lunch and Dinner","Vegetarian","paneer"," spices"," lemon",4
+"U1160","Mutton Cutlet","Lunch and Dinner","Non-Vegeterian","mutton"," spices"," potato",4
+"U1161","Chicken Seekh Kabab","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," spices",4
+"U1162","Veg lollipop","Lunch and Dinner","Vegetarian","vegetables"," corn flour"," spices",5
+"U1163","Malvani Chicken Curry","Lunch and Dinner","Non-Vegeterian","chicken"," coconut"," spices",2
+"U1164","Mutton Fry","Lunch and Dinner","Non-Vegeterian","mutton"," spices",NULL,1
+"U1165","Mutton Cutlet","Lunch and Dinner","Non-Vegeterian","mutton"," spices"," potato",5
+"U1166","Malai Kulfi","Lunch and Dinner","Vegetarian","sweet"," milk"," cream",5
+"U1167","Mutton Fry","Lunch and Dinner","Non-Vegeterian","mutton"," spices",NULL,4
+"U1168","Chicken RR","Lunch and Dinner","Non-Vegeterian","chicken"," pasta"," sauce",1
+"U1169","Mix Veg Curry","Lunch and Dinner","Vegetarian","vegetables"," spices",NULL,2
+"U1170","Mango Kuzhambu","Lunch and Dinner","Vegetarian","mango",NULL,NULL,4
+"U1171","Veg Manchurian","Lunch and Dinner","Vegetarian","vegetables"," corn flour"," sauce",4
+"U1172","Fish Manchurian","Lunch and Dinner","Non-Vegeterian","fish"," corn flour"," sauce",2
+"U1173","Chicken Manchurian","Lunch and Dinner","Non-Vegeterian","chicken"," sauce"," corn flour",2
+"U1174","Arachu Vitta Sambar","Lunch and Dinner","Vegetarian","vegetables"," dal"," sambar powder ",4
+"U1174","Mutton 65","Lunch and Dinner","Non-Vegeterian","mutton"," rice flour"," spices",2
+"U1174","Paneer Tikka","Lunch and Dinner","Vegetarian","paneer","yogurt","vegetables",4
+"U1173","Murgh Lasooni Kabab","Lunch and Dinner","Non-Vegeterian","chicken"," cream"," spices",2
+"U1173","Chicken Drum Sticks","Lunch and Dinner","Non-Vegeterian","chicken"," butter"," flour",1
+"U1173","Fish Manchurian","Lunch and Dinner","Non-Vegeterian","fish"," corn flour"," sauce",3
+"U1173","Carrot Halwa","Lunch and Dinner","Vegetarian","sweet"," carrot"," ghee",5
+"U1170","Butter Garlic Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," corn flour"," sauce",1
+"U1170","South Indian Chicken masala","Lunch and Dinner","Non-Vegeterian","chicken"," coconut mik "," spices",1
+"U1170","Pepper Mutton","Lunch and Dinner","Non-Vegeterian","mutton"," spices"," lemon",1
+"U1169","Cashew Chicken","Lunch and Dinner","Non-Vegeterian","chicken"," cashew"," sauce",2
+"U1169","Paneer Tikka","Lunch and Dinner","Vegetarian","paneer","yogurt","vegetables",4
+"U1169","Veg biryani","Lunch and Dinner","Vegetarian","rice"," vegetables",NULL,4
+"U1168","Hara Bara Kabab","Lunch and Dinner","Vegetarian","vegetables"," flour"," bread",3
+"U1168","Veg lollipop","Lunch and Dinner","Vegetarian","vegetables"," corn flour"," spices",3
+"U1167","South Indian Chicken masala","Lunch and Dinner","Non-Vegeterian","chicken"," coconut mik "," spices",3
+"U1167","Chicken Pulao","Lunch and Dinner","Non-Vegeterian","rice"," chicken",NULL,1
+"U1167","Mutton Pepper Fry","Lunch and Dinner","Non-Vegeterian","mutton"," spices"," lemon",5
+"U1166","Mutton Awadhi Kabab","Lunch and Dinner","Non-Vegeterian","mutton"," papaya"," spices",2
+"U1166","Chicken Roast","Lunch and Dinner","Non-Vegeterian","chicken"," spices"," lemon",3
+"U1166","Mutton RR","Lunch and Dinner","Non-Vegeterian","mutton"," pasta"," sauce",2
+"U1166","Chicken Tandoori","Lunch and Dinner","Non-Vegeterian","chicken"," spices"," lemon",2
+"U1165","Prawns Biryani","Lunch and Dinner","Non-Vegeterian","rice"," prawns",NULL,2
+"U1165","Chicken Majestic","Lunch and Dinner","Non-Vegeterian","chicken"," butter"," flour",1
+"U1165","Chicken Drum Sticks","Lunch and Dinner","Non-Vegeterian","chicken"," butter"," flour",3
+"U1165","Moong daal Halwa","Lunch and Dinner","Vegetarian","sweet"," dal"," ghee",4
+"U1164","Fish Manchurian","Lunch and Dinner","Non-Vegeterian","fish"," corn flour"," sauce",1
+"U1164","Chicken Pizza","Lunch and Dinner","Non-Vegeterian","chicken"," pizza"," cheese",2
+"U1164","Mango Kuzhambu","Lunch and Dinner","Vegetarian","mango",NULL,NULL,4
+"U1164","Chicken Achari","Lunch and Dinner","Non-Vegeterian","chicken"," yogurt"," spices",1
+"U1163","Chilli Fish","Lunch and Dinner","Non-Vegeterian","fish"," corn flour"," sauce",2
+"U1163","Chocolate Brownie","Lunch and Dinner","Vegetarian","sweet"," chocolate"," milk",3
+"U1163","Paneer Butter Masala","Lunch and Dinner","Vegetarian","paneer"," spices"," cream",5
+"U1163","Veg Cutlet","Lunch and Dinner","Vegetarian","vegetables"," bread",NULL,5
+"U1163","Matar Pulao","Lunch and Dinner","Vegetarian","rice",NULL,NULL,1
+"U1160","Pepper Prawns","Lunch and Dinner","Non-Vegeterian","prawns"," spices"," pepper",3
+"U1160","Farm Fresh Pizza","Lunch and Dinner","Vegetarian","pizza"," vegetables"," cheese",1
+"U1160","Chicken Pepperoni Piza","Lunch and Dinner","Non-Vegeterian","chicken"," pizza"," cheese",1
+"U1151","Nihari Gosht","Lunch and Dinner","Non-Vegeterian","mutton"," spices"," yogurt",5
+"U1151","Cashew Chicken","Lunch and Dinner","Non-Vegeterian","chicken"," cashew"," sauce",3
+"U1151","Chilli Mushroom","Lunch and Dinner","Vegetarian","mushroom"," corn flour"," sauce",2
+"U1142","Chicken Tandoori","Lunch and Dinner","Non-Vegeterian","chicken"," spices"," lemon",3
+"U1142","Virgin Mojito","Lunch and Dinner","Vegetarian","soda"," lemon",NULL,3
+"U1142","Chicken Madagascar","Lunch and Dinner","Non-Vegeterian","chicken"," coconut milk"," spices",5
+"U1142","Chilli Chicken","Lunch and Dinner","Non-Vegeterian","chicken"," sauce"," corn flour",4
+"U1142","Veg Kofta","Lunch and Dinner","Vegetarian","vegetables"," flour"," spices",5
+"U1131","Mutton RR","Lunch and Dinner","Non-Vegeterian","mutton"," pasta"," sauce",3
+"U1131","Chicken Fried Rice","Lunch and Dinner","Non-Vegeterian","rice"," chicken",NULL,3
+"U1131","Chilli Potatoes","Lunch and Dinner","Vegetarian","potato"," sauce"," cornflour",5
+"U1131","Malvani Chicken Curry","Lunch and Dinner","Non-Vegeterian","chicken"," coconut"," spices",2
+"U1131","Paneer 65","Lunch and Dinner","Vegetarian","paneer"," rice flour"," spices",4
