@@ -9,7 +9,7 @@ def add_bg_from_url():
          f"""
          <style>
          .stApp {{
-             background-image: url("https://d4t7t8y8xqo0t.cloudfront.net/resized/750X436/eazytrendz%2F2375%2Ftrend20190411082047.jpg");
+             background-image: url("https://static.theceomagazine.net/wp-content/uploads/2021/07/27153234/Payo_dining-700x467.jpg");
              background-attachment: fixed;
              background-size: cover
          }}
